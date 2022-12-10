@@ -47,9 +47,8 @@ Select from one below:
 
 > Write a `twelve` page graduate-level academic essay on `dialectical behavior therapy`. Let's first write the introduction with a thesis statement. The introduction should be `two paragraphs` in length.
 
->>Great! Now let's write the body of the essay. Because of the ChatGPT word count limit, you will need to respond more than once. I will let you know when to respond again by saying "continue".
->> Now let's write the body of the essay. It must address the following, which each point below being at least `two` paragraphs each:
->>1. The assumptions and implications of psychodynamic theory. Identify assumptions and contrast and compare to one other theory. What is the vision for a good/healthy life, for example: What is considered normal or abnormal?
+>>Great! Now let's write the body of the essay. Because of the ChatGPT word count limit, you will need to respond more than once. I will let you know when to respond again by saying "continue". You must address the following, which each point below being at least `two` paragraphs each:
+>>1. The assumptions and implications of `dialectical behavior therapy`. Identify assumptions and contrast and compare to one other theory. What is the vision for a good/healthy life, for example: What is considered normal or abnormal?
 >>2. As a therapist, what are methods within the theory that are to be applied during the helping process? How do people change in this theory?
 >>3. How do relationships fit into this theory? These relationships include family members, friends, and the therapist.
 >>4. What are considered opportunities to apply this theory? Argue for and analyze limitations: Provide examples of the approach both when working well and examples of what it is not appropriate.
@@ -59,7 +58,7 @@ Select from one below:
 
 >> Fantastic! Now let's write the conclusion.
 
->> Thank you. Now write an abstract this for a peer-review journal. Include keywords at the end.
+>> Thank you. Now let's focus on an abstract, like one you would see in a peer-review journal. Remember: an abstract is different than an introduction. [An abstract is a short summary of a paper. An abstract serves multiple purposes: 1) an abstract lets readers get the gist/essence of your paper quickly; 2) an abstract prepares readers to follow the detailed information, analyses, and arguments in your paper; and 3) an abstract helps readers remember key points from your paper.](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) Please write an abstract that is only `one` paragraph and is approximately `170` words in length. Include a list of at least `4` keywords at the end.
 
 ## Public Letters
 
