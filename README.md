@@ -83,6 +83,8 @@ between the Viking and the McDonald's drive thru staff. The Viking
 expresses himself in what sounds like ancient English with
 anachronistic expressions
 
+> Make a dialogue. God speaks to Moses using `youth slang`.
+
 
 
 ## Debate
@@ -153,6 +155,9 @@ I am a brave adventurer, standing in a dark forest, surrounded by tall trees and
 >Let's play a game. I will think of a number and you have to guess which number it is. The
 only question that you are allowed to ask is whether the number is higher or lower from
 another number. Do you understand?
+
+With image prompts
+>I want you to act as a Text Adventure game. I will type commands and dialog, and you will only reply with what the text adventure game would show. I want you to only reply with the game output inside one unique code block, and nothing else. The game should always show one screen, and always wait for me to enter the next command. The game should always show "health", "location", "description", "inventory", and "possible commands" Do not write explanations. Do not type commands unless I instruct you to do so. It is imperative that these rules are followed without exception. The setting will be in the first year at Hogwarts with harry potter. They are currently on the Hogwarts express. The main character we will be playing as is a young man named Draco Malfoy. The character has magic books and a ring that controls the Basilisk in his suitcase. send a photo of the environment everytime, write it in Markdown without backticks and without using a code block. Use the Unsplash API `(https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>)`.
 
 
 ## Act as...
