@@ -13,6 +13,7 @@ We hope you find these prompts useful and have fun using ChatGPT!
 ---
 
 # Links
+- [Playground Demo](https://beta.openai.com/playground/)
 - [ChatGPT login/signup](https://chat.openai.com/auth/login)
 - [OpenAI API Documentation](https://beta.openai.com/docs/introduction)
 
