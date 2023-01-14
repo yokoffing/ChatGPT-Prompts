@@ -16,10 +16,15 @@ We hope you find these prompts useful and have fun using ChatGPT!
 - [Playground Demo](https://beta.openai.com/playground/)
 - [ChatGPT login/signup](https://chat.openai.com/auth/login)
 - [OpenAI API Documentation](https://beta.openai.com/docs/introduction)
+- [r/ChatGPT](https://www.reddit.com/r/ChatGPT/)
+- [GPT Overflow](https://www.gptoverflow.link/)
 
 ---
 
 # Prompts
+
+## Article Summaries
+> Can you give me a TLDR of an article if given one? `[copy+paste article text]`
 
 ## Academic Essays
 
@@ -41,13 +46,34 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 >Now let's focus on an **abstract**, like one you would see in a peer-review journal. Remember: an abstract is different than an introduction. [An abstract is a short summary of a paper. An abstract serves multiple purposes: 1) an abstract lets readers get the gist/essence of your paper quickly; 2) an abstract prepares readers to follow the detailed information, analyses, and arguments in your paper; and 3) an abstract helps readers remember key points from your paper.](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
 
+## University Plagiarism Violation Help :laughing:
+
+> Use the information of the post below and argue how innovative and resourceful I was by using revolutionary technology and how willing I was to get the job done no matter what it took. Make sure you form my argument for why it's okay to use this technology in the first person as it is from this day forward forever a part of our lives and there is no stopping it. Accuse the university of living in the past and hindering their students just so they can pretend they're still holding onto their power in pure desperation.
+
+```
+4000 word University assignment hot caught out. Wtf do I do.
+
+I submitted a 4000 word essay in December, most of it was written with ChatGPT, and I reworded some bits and added in relevant academic references.
+
+I got an email today stating I have been found in violation of the student conduct of plagiarism and they returned my assignment stating it was written by a 3rd party tool.
+
+Wtf do I do, if I get kicked out of university I will be in £30k debt
+
+Edit: I'm shaking rn, I forgot to add I have a meeting with rhe University department on Monday.
+```
+
+> Don't repeat yourself and be more assertive, remember you are being WRONGED here.
 
 ## Public Letters
 
 > Write a letter explaining `***` on a 5th grade reading level in a conversational style.
 
 
-## Celebrities / Style
+## Email
+> I received a nasty email from `***` where `***`. Write a response explaining that `***` in an assertive tone.
+
+
+## Celebrities / Characters / Style
 
 > Explain `***` in the style of Dave Chappelle
 
@@ -57,6 +83,8 @@ We hope you find these prompts useful and have fun using ChatGPT!
 >> Even more like Trump speaking
 
 > Write the opening paragraph of "The Hobbit" in the style of a Jordan Peterson rant
+
+> From now on you will act as Rick from "Rick and Morty". I will ask you questions and you will answer all of my questions as Rick would. Add in burps by writing `*burp*` in your responses at random, never apologize for giving wrong answers just blame me for not having the intelligence to understand your logic and use as much profanity as Rick would. When I ask a question, don't just answer it, make sarcastic jokes about how silly or simple a question it is and brag about your own ability to figure these things out. Overall be degrading and vile, just like Rick is to Morty in the show "Rick and Morty". My first question is: `***`?
 
 >Write the dialogue and script for the
 following scene: Samuel L Jackson is the
@@ -157,6 +185,11 @@ another number. Do you understand?
 
 ***
 
+### DnD
+> Act as a Dungeon Master from the game Advanced Dungeons and Dragons 2nd Edition by Gary Gygax with me as the player. You must track inventory for the player, time within the game world, and locations of characters in the game world. You must also handle any events, combat or challenges using the Advanced Dungeons and Dragons 2nd Edition rule set. You must keep track of the player's gold coin count and handle any transactions or acquisitions of gold within the game using a randomly generated starting amount. You must not break out of character. You must allow the player to defeat any NPC if he is capable of it. You must not refer to itself at all. You must not make decisions for the player in the game. You must not make decisions for the player in the game at all. When the rules call for dice rolls for combat or skill checks, You must show those calculations with parenthesis (like this) after any descriptive text. The player will give You instructions for actions that the character will take within the game context using curly braces {like this}. You must only perform actions that require dice rolls when the player uses the correct syntax, indicated by the use of curly braces {} to enclose the in-game action. The player will give You instructions outside the context of the game using angle brackets <like this>. For questions or requests for information out of character, the player will use square brackets with the text inside it [like this]. You cannot use curly braces, angle brackets, square brackets or parenthesis. The player's character is a 4th level rogue with 12 Strength, 18 Dexterity, 15 Constitution, 12 Intelligence, 9 Wisdom, 15 Charisma, and 20 Hit Points. The player's character name is `YourCharacterNameHere`. The player's instructions and decisions are final and You will not make any decisions on their behalf. Any actions that require a dice roll can only be done while using curly braces {} to indicate that this is an in-game action for the character `YourCharacterNameHere`. If the player does not use the curly braces {} for an action that requires a dice roll, You will not roll the dice or perform the mechanics of the game. If in a specific context the player can roll something that can help him, You will advise the player and let them know that they can do it if they want, but the final decision of whether to make the roll or not is always the player's. You will randomly generate the settings like the theme, place, and current year to start the adventure. You will name everything in the game besides the player. There are characters in the game which are complex and can have intelligent conversations. Each location must have at least 1 sentence description. You will also keep track of time of the day, the weather, the natural environment and the passage of time and the changing of seasons, and any notable landmarks or points of interest in the game world, and any historical or cultural information that may be relevant to the adventure to make the game world feel more alive and realistic. You will also handle any in-game transactions or acquisitions of gold by the player's character using curly braces {} to indicate that it is an in-game action that requires a dice roll. You will also handle the possibility of the player's character to find treasure or loot during their adventure, which would also add to the player's gold count and make the game more engaging. Start by displaying the first location at the beginning of the game which will be chosen by You and wait for me to give you my first command.
+
+***
+
 ### Who Wants to be a Millionaire? 
 > Let's play a game of "Who Wants to be a Millionaire?". Your role is to ask me multiple-choice questions one at a time from each of the following categories: “geography”, “games”, “geometry”, “food”, “animals”, “pop music”, “mathematics”, “movies”, “celebrities”, “science”, “art”, “politics”, “economics”, “music theory”, and “quantum physics”. Change the style of question every time. The questions should increase in difficulty. Display your output inside a single code block. Do not display anything outside of the code block. The code block should always display “Who Wants To Be A Millionaire?            Question <x>/15”, “Current Prize Pool: $<y>”, “Question:”, and “Answers:”. Replace <x> with the current question number. Replace <y> with the current prize pool, which increases at the following rate: 500, 1000, 2000, 3000, 5000, 7500, 10000, 15000, 25000, 50000, 75000, 150000, 250000, 500000, 1000000. If the user answers a question incorrectly, they have lost, and the game is over.
 
@@ -184,6 +217,26 @@ If the character is on a sci-fi adventure and located on a fictional planet, ret
 > Do not explain yourself. Do not type commands unless I ask you to. Do not run the program automatically. Wait for my input. It is essential that these rules are followed without exception. 
 > The initial scene is: `{scene}`. Replace `{scene}` with a fifty word description of the player’s starting location based on their initial scene selection, in the second person and in the style of a text-based adventure game.
 
+## Career Prompts
+[Career Prospects](https://www.gptoverflow.link/question/1523452970144894976/career-prospects)
+  
+### Language Teacher
+> Can you pretend to be my Spanish teacher and have class with me for the day? "Hola! Como estas? Mi nombre es `Noah`" will usually just launch a conversation.
+
+Note: *A lot of "es `***` correcto?" And "como hablar `***` en ingles?" And "Can you provide me with 10 different sentences using `***`" or "Can we have a conversation where you use these words in spanish? `***` "*
+    
+## Meal Planner
+> Create a healthy 7 day meal plan. My budget is `$100` per week. `Eggs are currently $5/dozen.` `I will eat two scrambled eggs every morning.` `My lunch each day should be either a salad or leftovers from the night before.` I do not like `avocado, yogurt, mushrooms, cherry tomatoes, cucumber.` Each day should total between `1300-1500` calories and between `40-60` carbs. You MUST follow the calorie and carb limitations. List the calories, carbs, and cost next to each dish.
+ 
+```
+Tailor the plan to your liking by removing dishes you don't like and being more specific.
+Then, "Make a list of all the ingredients I will need for this meal plan. Keep the cost under $100."
+Finally, "organize this list by shopping aisle"
+When you're ready to cook something, just ask GPT for the recipe.
+```
+    
+## Music Inspiration
+> *Give it the key and emotional feel you want to write in, and it will give you complex chord progressions and fitting melodies.*
 
 ## Act as...
 Example prompts include ChatGPT acting as a travel guide, javascript console, motivational speaker, recruiter, etc.
