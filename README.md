@@ -50,21 +50,24 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 :bulb: You may need to double the number of pages you need. ChatGPT seems to underestimate page counts.
 
->Write a `twelve` page `graduate`-level academic essay. Please add subheading for each section. `Do not write an introduction or conclusion.`
-> You must address the criteria below `by writing at least two paragraphs for each point`:
+> I want you to act as an essay writer. My first request is: "Formulate a thesis statement, and create a comprehensive and detailed essay that covers all the points in the outline provided `by writing at least two paragraph for section of the outline`:
 >1) The assumptions and implications of dialectical behavioral theory. Identify assumptions and contrast and compare to one other theory. What is the vision for a good/healthy life, for example: What is considered normal or abnormal?
 >2) As a licensed mental health counselor, what are methods within the theory that are to be applied during the helping process? How do people change in this theory?
 >3) How do relationships fit into this theory? These relationships include family members, friends, and the therapist.
 >4) What are considered opportunities to apply this theory? Argue for and analyze limitations: Provide examples of the approach both when working well and examples of what it is not appropriate.
 >5) What place in this theory is there for spirituality?
 >6) How does this theory address issues of social justice?
->7) Identify limitations or issues pertaining to cultural competencies with this theory.
+>7) Identify limitations or issues pertaining to cultural competencies with this theory. "
+
+> continue
 
 >Write a `one` paragraph **conclusion** of essay you've written.
 
+> The `conclusion` is a bit sloppy. Make it more professional and with more examples.
+
 >Write an **introduction** with a thesis statement for the essay you've written. It needs to be at least `140` words.
 
->Now let's focus on an **abstract**, like one you would see in a peer-review journal. Remember: an abstract is different than an introduction. [An abstract is a short summary of a paper. An abstract serves multiple purposes: 1) an abstract lets readers get the gist/essence of your paper quickly; 2) an abstract prepares readers to follow the detailed information, analyses, and arguments in your paper; and 3) an abstract helps readers remember key points from your paper.](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
+>Now let's focus on an [abstract](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/), like one you would see in a peer-review journal. Remember: an abstract is different than an introduction. An abstract is a short summary of a paper. An abstract serves multiple purposes: 1) an abstract lets readers get the gist/essence of your paper quickly; 2) an abstract prepares readers to follow the detailed information, analyses, and arguments in your paper; and 3) an abstract helps readers remember key points from your paper. Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
 
 ## University Plagiarism Violation Help :laughing:
 
