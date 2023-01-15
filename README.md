@@ -51,7 +51,7 @@ We hope you find these prompts useful and have fun using ChatGPT!
 :bulb: You may need to double the number of pages you need. ChatGPT seems to underestimate page counts.
 
 > I want you to act as an essay writer. My first request is: "Formulate a thesis statement, and create a comprehensive and detailed essay that covers all the points in the outline provided `by writing at least two paragraph for section of the outline`:
->1) The assumptions and implications of dialectical behavioral theory. Identify assumptions and contrast and compare to one other theory. What is the vision for a good/healthy life, for example: What is considered normal or abnormal?
+>1) The assumptions and implications of dialectical behavioral theory. Identify assumptions and contrast and compare to one other theory. What is the vision for a good/healthy life? (For example: What is considered normal or abnormal?)
 >2) As a licensed mental health counselor, what are methods within the theory that are to be applied during the helping process? How do people change in this theory?
 >3) How do relationships fit into this theory? These relationships include family members, friends, and the therapist.
 >4) What are considered opportunities to apply this theory? Argue for and analyze limitations: Provide examples of the approach both when working well and examples of what it is not appropriate.
@@ -59,7 +59,12 @@ We hope you find these prompts useful and have fun using ChatGPT!
 >6) How does this theory address issues of social justice?
 >7) Identify limitations or issues pertaining to cultural competencies with this theory. "
 
-> continue
+:warning: You may need to break this down into smaller pieces, e.g.
+> I want you to act as an essay writer. My first request is: "Write `three` paragraphs on the assumptions and implications of `dialectical behavioral theory`. Identify assumptions and contrast and compare to one other theory. What is the vision for a good/healthy life? (For example: What is considered normal or abnormal?)"
+
+> My next request is: "Write `two` paragraphs on As a licensed mental health counselor, what are methods within the theory that are to be applied during the helping process? How do people change in this theory?"
+
+etc.
 
 >Write a `one` paragraph **conclusion** of essay you've written.
 
