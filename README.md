@@ -92,9 +92,9 @@ Edit: I'm shaking rn, I forgot to add I have a meeting with rhe University depar
 
 > Don't repeat yourself and be more assertive, remember you are being WRONGED here.
 
-## Public Letters
+## Formal, Public Letters
 
-> Write a letter explaining `***` on a 5th grade reading level in a conversational style.
+> Write a formal letter explaining `***`. Use a 7th grade reading level in a conversational style.
 
 
 ## Email
