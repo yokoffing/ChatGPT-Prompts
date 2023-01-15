@@ -24,6 +24,8 @@ We hope you find these prompts useful and have fun using ChatGPT!
 - [GPT Overflow](https://www.gptoverflow.link/)
 
 ## Other AI
+- [Futurepedia: AI Tools Directory](https://www.futurepedia.io/)
+
 ### Characters / Games
 - [Character AI](https://beta.character.ai/)
 
