@@ -22,6 +22,7 @@ We hope you find these prompts useful and have fun using ChatGPT!
 ## Prompts
 - [r/ChatGPT](https://www.reddit.com/r/ChatGPT/)
 - [GPT Overflow](https://www.gptoverflow.link/)
+- [FlowGPT](https://flowgpt.com/prompts)
 
 ## Other AI
 - [Futurepedia: AI Tools Directory](https://www.futurepedia.io/)
