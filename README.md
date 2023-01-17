@@ -24,8 +24,9 @@ We hope you find these prompts useful and have fun using ChatGPT!
 - [GPT Overflow](https://www.gptoverflow.link/)
 - [FlowGPT](https://flowgpt.com/prompts)
 
-## Other AI
-- [Futurepedia: AI Tools Directory](https://www.futurepedia.io/)
+## Databases
+- [Futurepedia](https://www.futurepedia.io/): AI Tools Directory
+- [TheresAnAIforThat](https://theresanaiforthat.com/): AI use cases and the evolution of AI capabilities since 2015
 
 ### Characters / Games
 - [Character AI](https://beta.character.ai/)
