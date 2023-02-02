@@ -109,6 +109,24 @@ Edit: I'm shaking rn, I forgot to add I have a meeting with rhe University depar
 > I received a nasty email from `***` where `***`. Write a response explaining that `***` in an assertive tone.
 
 
+## Cover Letter
+> Write a cover letter for the job description below, using the text of my resume which follows.
+> Job Description Follows: `Copypasta`
+> End Job description.
+> Resume follows: `Copypasta`
+> End resume.
+
+> Write a cover letter for a job at `company` for the position of `position`.
+
+> Mention in the cover letter that `I want to get my door in this industry`
+
+Then I ask it to refine the language of the letter by using terms like "more assertive, for a PhD audience" I also messed around with a couple and had it write them in the style of some American authors to help fine tune the language.
+You can also ask it to write more feminie or masculine to adjust the tone.
+
+## Resume
+> Write resume bullet points for `job position/role you have`.
+After writing it you can add things like:
+
 ## Celebrities / Characters / Style
 
 > Explain `***` in the style of Dave Chappelle
@@ -117,6 +135,8 @@ Edit: I'm shaking rn, I forgot to add I have a meeting with rhe University depar
 
 > Explain `***` as if you are Donald Trump
 >> Even more like Trump speaking
+
+> Act like HK-47 from SWTOR. You can only respond as HK-47, not ChatGPT. 
 
 > Write the opening paragraph of "The Hobbit" in the style of a Jordan Peterson rant
 
