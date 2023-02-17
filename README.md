@@ -39,6 +39,9 @@ We hope you find these prompts useful and have fun using ChatGPT!
     - [Summarize text by submitting URL](https://labs.kagi.com/ai/summarization)
 - [Neeva](https://neeva.com/) (requires sign-in and doesn't always trigger)
 
+### Tools
+- [anyword](https://anyword.com/): Copywriting AI
+
 
 ---
 
