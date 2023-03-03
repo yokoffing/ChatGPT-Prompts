@@ -46,7 +46,6 @@ We hope you find these prompts useful and have fun using ChatGPT!
 ---
 
 # Bing AI
-Unlike ChatGPT, Bing AI will do more for you if you're nice to it.
 
 ## Bing Chat refuses
 
