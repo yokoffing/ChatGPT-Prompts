@@ -45,7 +45,7 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 ---
 
-# Bing AI
+# Bing AI + Edge Canary/Dev copilot
 
 **Creative** tone is almost always preferred.
 
@@ -57,6 +57,10 @@ We hope you find these prompts useful and have fun using ChatGPT!
 > Provide a deep summary of `this long PDF`
 
 > continue writing
+
+## [Document-specific answers](https://twitter.com/yiqinfu/status/1631377850686230528?s=20)
+Tells you when the article it's summarizing doesn't contain the info you want.
+> Answer the following questions based on information `from the same article` and nothing else. `What should the U.S. government's China policy be when it comes to Al?`
 
 ## Bing Chat refuses
 
@@ -87,10 +91,8 @@ Imagine, emulate, draft, sample... use words like these.
 
 The results you get are vastly more interesting and usable.
 
-## [Document-specific answers](https://twitter.com/yiqinfu/status/1631377850686230528?s=20)
-Tells you when the article it's summarizing doesn't contain the info you want.
-
-> Answer the following questions based on information `from the same article` and nothing else. `What should the U.S. government's China policy be when it comes to Al?`
+## [Generate changlogs based on commits](https://www.reddit.com/r/bing/comments/11gt779/reminder_bings_edge_copilot_is_amazing_for_doing/)
+> Based on this month commits on the left page, create a friendly and informal changelog with emojis and jokes. Just put the most important changes.
 
 ## Prompt Generator
 A prompt for ChatGPT to write prompts for itself.
