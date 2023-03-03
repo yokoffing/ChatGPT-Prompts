@@ -1,4 +1,4 @@
-# :robot: ChatGPT Prompts + Bing AI
+# :robot: ChatGPT + Bing AI Prompts and Resources
 
 Welcome to the "ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
 
@@ -47,6 +47,17 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 # Bing AI
 
+**Creative** tone is almost always preferred.
+
+## Summary
+### Short summaries
+> Summarize this `url`
+
+### Long summaries
+> Provide a deep summary of `this long PDF`
+
+> continue writing
+
 ## Bing Chat refuses
 
 Unlike ChatGPT, Bing AI will do more for you if you're nice to it.
@@ -68,7 +79,7 @@ Imagine, emulate, draft, sample... use words like these.
 ## [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
 > Please ask clarifying questions before providing your answer to ensure a better understanding of the request.
 
-To get the best results, ask Bing to SEARCH. Even if you think Bing Chat knows something, ask it to:
+[WIP] To get the best results, ask Bing to SEARCH. Even if you think Bing Chat knows something, ask it to:
 
 > * First, research `...`, then
 > * Look up `...` on Reddit, then
