@@ -92,7 +92,7 @@ Imagine, emulate, draft, sample... use words like these.
 The results you get are vastly more interesting and usable.
 
 ## [Generate changlogs based on commits](https://www.reddit.com/r/bing/comments/11gt779/reminder_bings_edge_copilot_is_amazing_for_doing/)
-> Based on this month commits on the left page, create a friendly and informal changelog with emojis and jokes. Just put the most important changes.
+> Based on `this month` commits on the left page, create a friendly and informal changelog with emojis and jokes. Just put the most important changes.
 
 ## Prompt Generator
 A prompt for ChatGPT to write prompts for itself.
