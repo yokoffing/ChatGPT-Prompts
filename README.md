@@ -115,6 +115,25 @@ A prompt for ChatGPT to write prompts for itself.
 > * `Act like an old man`
 
 ## Writing
+
+### [Improvement](https://oneusefulthing.substack.com/i/105897054/always-ask-it-to-look-things-up)
+The answer is more sophisticated and the text is actually interesting to read.
+> * Write a paragraph about `eating a meal`.
+> * Look up the writing styles of Ruth Reichl and Anthony Bourdain. Use what you have learned to improve the paragraph.
+
+You should make sure you are forcing Bing to look something up with every query. Things that have worked for me include prompts like
+> * First research `...`.
+> * Then do `...` or else prompts like
+> * Look up `...` on `Reddit/in academic papers/in the news`.
+> * Then use that to `..`.
+
+Either way, you want to trigger the “searching for” label to get good results. The rules are still a little obscure as to what sorts of searches get triggered (does it look at specific URLs if you paste them in?) but experiment and you should be able to find something that works.
+
+You can also use this approach to focus Bing on a particular approach.
+> * Look up how `Bain and Company` does consulting analyses and then `...`
+to learn new skills
+> * Look up how to create `image prompts` using `Midjourney` and write a prompt that `...`
+
 ### [Academic Essays](https://oneusefulthing.substack.com/i/102980065/b-essays-no-more)
 Note: 250 words = 1 page; 1250 words = 5 pages; etc.
 
@@ -187,7 +206,7 @@ Describe non-existent products:
 
 # ChatGPT Prompts
 
-## Act like a...
+## Persona Suggestions
 * see [Awesome ChatGPT Prompts](https://prompts.chat/)
 
 
