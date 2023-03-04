@@ -12,6 +12,13 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 ---
 
+# Contents
+1) [Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
+2) [Bing AI-specific prompts](https://github.com/yokoffing/ChatGPT-Prompts#bing-ai--edge-canarydev-copilot)
+3) [ChatGPT Prompts](https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts) (and prompts for other AI chatbots)
+
+---
+
 # Links
 
 ## OpenAI
@@ -103,7 +110,26 @@ A prompt for ChatGPT to write prompts for itself.
 # ChatGPT Prompts
 
 ## Act like a...
-[Awesome ChatGPT Prompts](https://prompts.chat/)
+* see [Awesome ChatGPT Prompts](https://prompts.chat/)
+
+## Generating Ideas
+While nothing beats a real human, an AI interview can be surprisingly enlightening first step. You just need to make it “act” the part. This can involve asking it to “imagine you are a `...`, how would you answer `...`”, or to ask it to “describe how `...`” might answer a question. It may involve a bit of experimentation, but the results can be interesting.
+
+#### [Interview the AI](https://oneusefulthing.substack.com/i/88037304/interview-the-ai)
+> * Describe in detail `the frustrations that might bother a professor who is trying to grade many students accurately`
+> * How do they solve these problems today?
+> * What are the limitations of these solutions?
+
+#### The [Yes, and](https://oneusefulthing.substack.com/i/88037304/yes-and) Method
+> * Tell me about `a new toothbrush that would be a breakthrough idea`
+> * Yes, and `the charging is also wireless`. How does that work?
+> * Yes, and `the charging case is very well designed`. How is it designed?
+
+#### [Go for volume](https://oneusefulthing.substack.com/i/88037304/go-for-volume)
+> * Come up with 50 brillant ideas for a `business around dental hygiene`
+
+#### [Make it weird](https://oneusefulthing.substack.com/i/88037304/make-it-weird)
+> * What would be the strangest way you could imagine to `brush your teeth`?
 
 ## [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
 > You're an expert `career advisor`. You have helped `people change careers` for 20 years. Your task is to provide the best advice when it comes to `changing careers`. You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
