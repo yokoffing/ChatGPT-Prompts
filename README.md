@@ -13,7 +13,7 @@ We hope you find these prompts useful and have fun using ChatGPT!
 ---
 
 # Contents
-1) [Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
+1) [AI Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
 2) [Prompts for Bing AI](https://github.com/yokoffing/ChatGPT-Prompts#bing-ai--edge-canarydev-copilot) (and other chatbots allowed to search the internet)
 3) [Prompts for ChatGPT](https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts)
 
@@ -45,6 +45,9 @@ We hope you find these prompts useful and have fun using ChatGPT!
     - [AI+search beta](https://labs.kagi.com/ai/contextai)
     - [Summarize text by submitting URL](https://labs.kagi.com/ai/summarization)
 - [Neeva](https://neeva.com/) (requires sign-in and doesn't always trigger)
+
+### AI Tracker & Ad Blocker
+* [Ghostery](https://www.ghostery.com/ghostery-ad-blocker)
 
 ### Tools
 - [anyword](https://anyword.com/): Copywriting AI
@@ -80,7 +83,7 @@ The results you get are vastly more interesting and usable.
 ## Guides
 > * Explain step-by-step how `a radio works`.
 
-## [Document-specific answers](https://twitter.com/yiqinfu/status/1631377850686230528?s=20)
+## [Answers in a specific document](https://twitter.com/yiqinfu/status/1631377850686230528?s=20)
 Tells you when the article it's summarizing doesn't contain the info you want.
 > * Answer the following questions based on information `from the same article` and nothing else. `What should the U.S. government's China policy be when it comes to Al?`
 
@@ -111,35 +114,73 @@ A prompt for ChatGPT to write prompts for itself.
 
 > * `Act like an old man`
 
+## Writing
+### Essay writing
+Note: 250 words = 1 page
+> * Write a `1250-word` essay on how `innovations are adopted in a specific industry or organization`. You should use `the diffusion of innovation theory as a framework to analyze the factors that influence the adoption process and the challenges and benefits of adopting new technologies`. You should also `provide recommendations on how to improve the adoption rate and overcome the barriers to innovation`. Your essay should include the following sections:
+> * Introduction: Provide some background information on `the industry or organization you have chosen and the innovation you will discuss`. State your main argument and the purpose of your essay.
+> * Body: Use `the diffusion of innovation theory` to explain how `the innovation is diffused and adopted in your chosen context`. You should address the following aspects:
+> * The characteristics of the innovation and how they affect its adoption
+> * The characteristics of the adopters and how they are categorized into different groups
+> * The communication channels and social networks that facilitate or hinder the diffusion of the innovation
+> * The external and internal factors that influence the adoption decision and the rate of adoption
+> * Conclusion: Summarize your main points and findings. Provide some recommendations on how `to enhance the adoption of the innovation and overcome the challenges`. Discuss the implications and limitations of your analysis.
+> * References: Cite at least `five` credible `peer-reviewed` sources that are written no earlier than `2013` to support your arguments. Use `APA 7` style for in-text citations and reference list.
+
 # ChatGPT Prompts
 
 ## Act like a...
 * see [Awesome ChatGPT Prompts](https://prompts.chat/)
 
-## Generating Ideas
+## Generating Ideas + Boosting Creativity
 While nothing beats a real human, an AI interview can be surprisingly enlightening first step. You just need to make it “act” the part. This can involve asking it to “imagine you are a `...`, how would you answer `...`”, or to ask it to “describe how `...`” might answer a question. It may involve a bit of experimentation, but the results can be interesting.
 
-#### [Interview the AI](https://oneusefulthing.substack.com/i/88037304/interview-the-ai)
+### [Interview the AI](https://oneusefulthing.substack.com/i/88037304/interview-the-ai)
 > * Describe in detail `the frustrations that might bother a professor who is trying to grade many students accurately`
 > * How do they solve these problems today?
 > * What are the limitations of these solutions?
 
-#### The [Yes, and](https://oneusefulthing.substack.com/i/88037304/yes-and) Method
+### The [Yes, and](https://oneusefulthing.substack.com/i/88037304/yes-and) Method
 > * Tell me about `a new toothbrush that would be a breakthrough idea`
 > * Yes, and `the charging is also wireless`. How does that work?
 > * Yes, and `the charging case is very well designed`. How is it designed?
 
-#### [Go for volume](https://oneusefulthing.substack.com/i/88037304/go-for-volume)
-> * Come up with 50 brillant ideas for a `business around dental hygiene`
+### [Go for volume](https://oneusefulthing.substack.com/i/88037304/go-for-volume)
+> * Come up with 50 brillant ideas for a `business around dental hygiene`.
 
-#### [Make it weird](https://oneusefulthing.substack.com/i/88037304/make-it-weird)
+> * Give me 50 `uses for a paperclip`.
+
+### [Make it weird](https://oneusefulthing.substack.com/i/88037304/make-it-weird)
 > * What would be the strangest way you could imagine to `brush your teeth`?
 
+### [Create many ideas](https://oneusefulthing.substack.com/i/99217974/fluency-creating-lots-of-ideas)
+> * You are an expert at `marketing`. When asked to generate `slogan` ideas you come up with ideas that are different from each other, clever, and interesting. You use clever `wordplay`. You try not to repeat themes or ideas. Here is your first task: come up with 20 ideas for `marketing slogans` for a new `mail-order cheese shop`. Make them different from each other, and make them clever and creative.
+
+### [Create novel ideas](https://oneusefulthing.substack.com/i/99217974/variance-creating-novel-ideas)
+> * You are an expert at problem solving and idea generation. When asked to solve a problem you come up with novel and creative ideas. Here is your first task: tell me 10 detailed ways `an astronaut` might `make espresso`. Describe the details of each way.
+
+### [Ask an Expert](https://oneusefulthing.substack.com/i/99217974/variance-creating-novel-ideas)
+> * Create an interview transcript between a `product designer` and a `dentist` about the problems the `dentist` has.
+
+Describe non-existent products:
+> * Walk me through the interface for a fictional new `water pump` that has exciting new features.
+
+### [Get unstuck](https://oneusefulthing.substack.com/i/99217974/getting-unstuck-avoiding-inertia)
+> * Here is my first sentence: `...`. Continue it.
+
+> * Give me the subheadings for the following story idea: `...`
+
+> * Give me a fictional transcript where I pitch the CEO of a `family-run Italian espresso` company the idea for a new kind of `espresso machine` using `laser heaters`.
+
+
+
+
+
 ## [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
-> You're an expert `career advisor`. You have helped `people change careers` for 20 years. Your task is to provide the best advice when it comes to `changing careers`. You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
+> * You're an expert `career advisor`. You have helped `people change careers` for 20 years. Your task is to provide the best advice when it comes to `changing careers`. You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
 
 Or just add to the end of every prompt:
-> You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
+> * You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
 
 ## Article Summaries
 > Can you give me a TLDR of an article if given one? `[copy+paste article text]`
