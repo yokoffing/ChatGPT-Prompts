@@ -115,7 +115,7 @@ A prompt for ChatGPT to write prompts for itself.
 > * `Act like an old man`
 
 ## Writing
-### Essay writing
+### [Essay writing](https://oneusefulthing.substack.com/i/102980065/b-essays-no-more)
 Note: 250 words = 1 page
 > * Write a `1250-word` essay on how `innovations are adopted in a specific industry or organization`. You should use `the diffusion of innovation theory as a framework to analyze the factors that influence the adoption process and the challenges and benefits of adopting new technologies`. You should also `provide recommendations on how to improve the adoption rate and overcome the barriers to innovation`. Your essay should include the following sections:
 > * Introduction: Provide some background information on `the industry or organization you have chosen and the innovation you will discuss`. State your main argument and the purpose of your essay.
@@ -125,7 +125,7 @@ Note: 250 words = 1 page
 > * The communication channels and social networks that facilitate or hinder the diffusion of the innovation
 > * The external and internal factors that influence the adoption decision and the rate of adoption
 > * Conclusion: Summarize your main points and findings. Provide some recommendations on how `to enhance the adoption of the innovation and overcome the challenges`. Discuss the implications and limitations of your analysis.
-> * References: Cite at least `five` credible `peer-reviewed` sources that are written no earlier than `2013` to support your arguments. Use `APA 7` style for in-text citations and reference list.
+> * References: Cite at least `seven` credible `peer-reviewed` sources that were published after `2013` to support your arguments. Use `APA 7` style for in-text citations and reference list.
 
 # ChatGPT Prompts
 
