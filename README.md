@@ -301,8 +301,9 @@ After writing it you can add things like:
 
 ## Celebrities / Characters / Style
 
-> * What would the `Founding Fathers` say about the debate over `Biden forgiving some student loan debt`? List them individually and imagine their responses based on their philosophies.
-> * Revise this by putting their thoughts in quotes, first-person, and on a `twelfth`-grade reading level.
+Bing is surprisingly good at applying the theories and philosophies of famous people to practical problems.
+
+> * What would the `Founding Fathers` say about the debate over `Biden forgiving some student loan debt`? List them individually and imagine `their` responses based on `their` philosophies. Put `their` thoughts in quotes, first-person, and `modern English`.
 
 > Explain `***` in the style of Dave Chappelle
 
