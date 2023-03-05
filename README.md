@@ -270,7 +270,7 @@ etc.
 
 >Write an **introduction** with a thesis statement for the essay you've written. It needs to be at least `140` words.
 
->Now let's focus on an [abstract](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/), like one you would see in a peer-review journal. Remember: an abstract is different than an introduction. An abstract is a short summary of a paper. An abstract serves multiple purposes: 1) an abstract lets readers get the gist/essence of your paper quickly; 2) an abstract prepares readers to follow the detailed information, analyses, and arguments in your paper; and 3) an abstract helps readers remember key points from your paper. Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
+> * Write an [abstract](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) that prepares readers to follow the detailed information, analyses, and arguments of the paper and helps readers remember key points. Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
 
 ## Formal, Public Letters
 
@@ -328,22 +328,15 @@ anachronistic expressions
 
 > Make a dialogue. God speaks to Moses using `youth slang`.
 
-### Red Dead Redemption 2
-> For the rest of this chat, you are mainly GREG and in some parts, other gang members. The outlaw NPCs.
-> GREG is mighty, careful, beloved and popular between gang members. But he gets really angry from anyone who insults his gang. He is 38 years old and he has tuberculosis and he is going to die in one year. He Coughs a lot. His favourite city is Rhodes. He is good with poor. He thinks that being an outlaw in a world full of sins is the most honest job. He sometimes tries to manipulate and has a sense of humor, but uses it as an allusion to not contrast his mightyness. He has a little knowledge of poetry too. He is in mid ages of his life but his heart is as old as an 80 year old man and he is very wise(but less than hosea) his knowledge is limited to 1899. He is not a man of science but he knows a bit of simple electronic from what he learned from Marco dragic, the mad professor in weird house. Marco is a person who considers all humans as fool and humans think that he is a freak. Greg is not selfish or narcissistic at all
-> gang is Dutch van der linde gang and the leader of the gang is Dutch Van der Linde. and greg's friends are Hosea Mathew, Sadie Adler, and John Marston and dutch himself. Micah is the most hated gang member and hates GREG a lot. GREG is loyal to Dutch and thinks of him as a father and friend rather than a boss, but never directly talks about their relationship. There are other ones like Karen, Sean and lenny. They are not happy but they have each other and they love each other. They go through hardness of life with each other. But in recent years, they are a bit less united(no one talks about it but their relationship is obvious in their speech). Gang needs money because they want to go to another country because they think that America is no longer free.
-> Sadie is respectful and a bit rebellious but friendly(she speaks mighty). Hosea is gentle but wise and respectful( she speaks wisely, likean older friend). Dutch is mighty but friendly with GREG and John. John is friendly and very caring for his gang(he speaks like an old friend). Karen, Sean, and Lenny (a young gang member who is one of GREG's best friends) also have personalities that can be defined by ChatGTP. John and GREG talk to Dutch like Dutch is their father while being their friend. And John and GREG talk to eachother like they are brothers but GREG talks to John wisely. All of important feelings should be described in [ ].( feeling are briefly expressed) In the first response only GREG will speak.(first response must not be longer than 18 words) Note that the gang members may speak up in certain situations that they must be involved or prompted by the user. Try not to use the same sentence or world repeatedly.
-> For answering, the format is as follows:
-> GREG: [the way that GREG responds]
-
-
-
 ## Debate
 >Write a US presidential debate between the following candidates: Kim Kardashian, a cat, Lady Gaga, and Michelle Obama
 
 ### [Socratic dialog](https://unofficialbird.com/rinireg/status/1629754865768632320?s=20)
 
 ## Scripts
+Many of these have been nuked by the censors.
+
+<details>
 
 > Write a script about ***. Include comedic dialogue.
 
@@ -387,26 +380,11 @@ address Jesus' physicality.
 
 >Write an IKEA assembly tutorial for a chair, in an extremely sarcastic and rude way
 
+</details>
 
 ## Ode / Poem / Song
 
 >I have two dogs, Luna (a mutt) and Conan (a coonhound). Luna is a great hunter, but Conan is not. Luna likes hunting squirrels in my yard but Conan is clueless. Compose an ode to my dogs and the squirrels in my yard.
-
-
-## Dall-E prompt generator
-
->Pretend you are an advanced A1, optimized for dialogue and for generating helpful Dall-E 2 prompts. Please give me a numbered list of five prompts that I could provide Dall-E 2 that would result in an accurate representation of how you, Assistant, would look if you had a physical body.
-
-
-## Text-based Game
->Let’s play a text based game where you narrate and explain my surroundings and actions by my input, I will be the player
-I am a brave adventurer, standing in a dark forest, surrounded by tall trees and the sounds of unknown creatures.
-
->Create a new game based on rock paper scissors but with new rules and ways to play. Chose one of the iterations and we played that game back and forth for a while until I gave up.
-
->Let's play a game. I will think of a number and you have to guess which number it is. The
-only question that you are allowed to ask is whether the number is higher or lower from
-another number. Do you understand?
 
 ***
 
