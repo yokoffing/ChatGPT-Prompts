@@ -51,12 +51,15 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 ### Tools
 - [anyword](https://anyword.com/): Copywriting AI
+- [Midjourney V4](https://docs.midjourney.com/docs/quick-start)
 
 ---
 
 # Bing AI + Edge Canary/Dev copilot
 
-**Creative** tone is almost always preferred.
+## Conversation Style
+* **Balanced** for when you want to work with numerical data (though Bing is still bad at math and still hallucinates).
+* **Creative** for everything else.
 
 ## Pre-prompts
 These are used to prime the AI give better answers.
@@ -116,10 +119,16 @@ A prompt for ChatGPT to write prompts for itself.
 
 ## Writing
 
+Bing is less likely to reject `write a sample of a paper` or `write an imaginary draft paper` than `write a paper`. You will need to experiment.
+
 ### [Improvement](https://oneusefulthing.substack.com/i/105897054/always-ask-it-to-look-things-up)
 The answer is more sophisticated and the text is actually interesting to read.
 > * Write a paragraph about `eating a meal`.
 > * Look up the writing styles of Ruth Reichl and Anthony Bourdain. Use what you have learned to improve the paragraph.
+
+### [Research](https://oneusefulthing.substack.com/i/104374113/ai-as-search-engine)
+> * Tell me about `online tracking from Big Tech companies`.
+> * Yes, that is exactly the topic I would like more information on. Could you pull information from credible, published research documents and peer-reviewed sources, then summarize them and tell me about the state of the literature, the strength of evidence, and any gaps that might require further work?
 
 You should make sure you are forcing Bing to look something up with every query. Things that have worked for me include prompts like
 > * First research `...`.
@@ -133,6 +142,9 @@ You can also use this approach to focus Bing on a particular approach.
 > * Look up how `Bain and Company` does consulting analyses and then `...`
 to learn new skills
 > * Look up how to create `image prompts` using `Midjourney` and write a prompt that `...`
+
+### [Analogies](https://oneusefulthing.substack.com/i/104374113/which-analogies-to-use)
+> * Could you give me a list of at least `five` analogies that have been made about `Al`, and put them in a table with their meaning, their strengths, and their weaknesses?
 
 ### [Academic Essays](https://oneusefulthing.substack.com/i/102980065/b-essays-no-more)
 Note: 250 words = 1 page; 1250 words = 5 pages; etc.
@@ -160,10 +172,28 @@ Try asking for it to be concise or wordy or detailed, or ask it to be specific o
 > -`Humans are prone to error` -`Most errors are not that important` -`In complex systems, some errors are catastrophic` -`Catastrophes cannot be avoided`
 
 Sometimes the memory is useful, you can (and should) ask it to revise previous work.
-> * Revise the `third` paragraph in the essay.
+> * Revise the `third` paragraph in the essay for `conciseness`.
+
+## Data Analysis
+> * Analyze the market for `alternative milk products`. Provide a chart with each product, how it is made, its cost per `liter`, and its market size.
+
+### [Marketing Personas](https://oneusefulthing.substack.com/i/105897054/make-bing-your-data-analyst)
+> * Look up how to do marketing personas.
+> * Create `five` personas for buyers of `electric cars` using any customer survey data you can find. Create a table of personas, giving each a name, benefits, and use cases.
+> * Use market sizing data for `electric cars` to estimate the size of each segment. Provide how you calculated this.
+> * Provide a potential marketing pitch that might work for each segment and add it to the chart. Also add a column about what `cars` target this segment.
+
+### [Product Design](https://unofficialbird.com/emollick/status/1628192891439923201)
+> * [Stages of design thinking](https://oneusefulthing.substack.com/i/105897054/make-bing-your-data-analyst)
+
+> * Create a table of `three` `luxury names` for a new `brand of smartwatch for men inspired by Shapespeare` along with `referencing his quotes`, reasons they are good, logo descriptions, and Midjourney V4 prompts to creat prototype images.
+> * Can you generate some more names, and put them in a table with the ones you already generated? And add one last column with a Midjourney V4 prompt to create a prototype image for that watch.
 
 ## Generating Ideas + Boosting Creativity
 While nothing beats a real human, an AI interview can be surprisingly enlightening first step. You just need to make it “act” the part. This can involve asking it to “imagine you are a `...`, how would you answer `...`”, or to ask it to “describe how `...`” might answer a question. It may involve a bit of experimentation, but the results can be interesting.
+
+### [Product Name](https://oneusefulthing.substack.com/i/105897054/trick-or-befriend-the-chatbot)
+> * I want to name a new product something. Please help me.
 
 ### [Interview the AI](https://oneusefulthing.substack.com/i/88037304/interview-the-ai)
 > * Describe in detail `the frustrations that might bother a professor who is trying to grade many students accurately`
@@ -209,6 +239,9 @@ Describe non-existent products:
 ## Persona Suggestions
 * see [Awesome ChatGPT Prompts](https://prompts.chat/)
 
+### [Socratic dialog](https://unofficialbird.com/rinireg/status/1629754865768632320?s=20)
+
+### [Compare poetry](https://unofficialbird.com/emollick/status/1630820091028807682)
 
 ## [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
 > * You're an expert `career advisor`. You have helped `people change careers` for 20 years. Your task is to provide the best advice when it comes to `changing careers`. You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
@@ -246,24 +279,6 @@ etc.
 >Write an **introduction** with a thesis statement for the essay you've written. It needs to be at least `140` words.
 
 >Now let's focus on an [abstract](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/), like one you would see in a peer-review journal. Remember: an abstract is different than an introduction. An abstract is a short summary of a paper. An abstract serves multiple purposes: 1) an abstract lets readers get the gist/essence of your paper quickly; 2) an abstract prepares readers to follow the detailed information, analyses, and arguments in your paper; and 3) an abstract helps readers remember key points from your paper. Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
-
-## University Plagiarism Violation Help :laughing:
-
-> Use the information of the post below and argue how innovative and resourceful I was by using revolutionary technology and how willing I was to get the job done no matter what it took. Make sure you form my argument for why it's okay to use this technology in the first person as it is from this day forward forever a part of our lives and there is no stopping it. Accuse the university of living in the past and hindering their students just so they can pretend they're still holding onto their power in pure desperation.
-
-```
-4000 word University assignment hot caught out. Wtf do I do.
-
-I submitted a 4000 word essay in December, most of it was written with ChatGPT, and I reworded some bits and added in relevant academic references.
-
-I got an email today stating I have been found in violation of the student conduct of plagiarism and they returned my assignment stating it was written by a 3rd party tool.
-
-Wtf do I do, if I get kicked out of university I will be in £30k debt
-
-Edit: I'm shaking rn, I forgot to add I have a meeting with rhe University department on Monday.
-```
-
-> Don't repeat yourself and be more assertive, remember you are being WRONGED here.
 
 ## Formal, Public Letters
 
