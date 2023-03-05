@@ -67,12 +67,6 @@ These are used to prime the AI give better answers.
 ### [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
 > * Ask clarifying questions before providing your answer to ensure a better understanding of the request.
 
-To get the best results, ask Bing to SEARCH. Even if you think Bing Chat knows something, ask it to:
-
-> * First, research `...`, then
-> * Look up `...` on Reddit, then
-> * Look up the `...`. Use what you learned to `...`
-
 The results you get are vastly more interesting and usable.
 
 ## Summary
