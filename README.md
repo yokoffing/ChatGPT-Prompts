@@ -177,9 +177,15 @@ Sometimes the memory is useful, you can (and should) ask it to revise previous w
 > * Use market sizing data for `electric cars` to estimate the size of each segment. Provide how you calculated this.
 > * Provide a potential marketing pitch that might work for each segment and add it to the chart. Also add a column about what `cars` target this segment.
 
-### [Product Design](https://unofficialbird.com/emollick/status/1628192891439923201)
-> * [Stages of design thinking](https://oneusefulthing.substack.com/i/105897054/make-bing-your-data-analyst)
+### Product Design
+#### [Stages of design thinking](https://oneusefulthing.substack.com/i/105897054/make-bing-your-data-analyst)
+> * Look up how design thinking works. Then take me through the first stage, empathy, for `product using AI` to `make the job of professors easier`. Look up information as needed.
+> * Yes, provide a completed example of the empathy section for `an AI product aimed at professors to make their lives easier`.
+> * Let's go with the `second` bullet point. Now go to the ideate stage. Create ideas on how to solve the problem and challenge assumptions.
+> * Let's go with the `first` bullet point. Describe prototypes I can use to test whether this idea is good quickly and cheaply.
+> * Provide a simulated example of how the `fourth` bullet point might work, including a transcript of the test.
 
+#### [Product ideas table](https://unofficialbird.com/emollick/status/1628192891439923201)
 > * Create a table of `three` `luxury names` for a new `brand of smartwatch for men inspired by Shapespeare` along with `referencing his quotes`, reasons they are good, logo descriptions, and Midjourney V4 prompts to creat prototype images.
 > * Can you generate some more names, and put them in a table with the ones you already generated? And add one last column with a Midjourney V4 prompt to create a prototype image for that watch.
 
@@ -190,7 +196,7 @@ While nothing beats a real human, an AI interview can be surprisingly enlighteni
 > * I want to name a new product something. Please help me.
 
 ### [Interview the AI](https://oneusefulthing.substack.com/i/88037304/interview-the-ai)
-> * Describe in detail `the frustrations that might bother a professor who is trying to grade many students accurately`
+> * Describe in detail the frustrations of `a professor who is trying to grade many students accurately`.
 > * How do they solve these problems today?
 > * What are the limitations of these solutions?
 
@@ -208,7 +214,7 @@ While nothing beats a real human, an AI interview can be surprisingly enlighteni
 > * What would be the strangest way you could imagine to `brush your teeth`?
 
 ### [Create many ideas](https://oneusefulthing.substack.com/i/99217974/fluency-creating-lots-of-ideas)
-> * You are an expert at `marketing`. When asked to generate `slogan` ideas you come up with ideas that are different from each other, clever, and interesting. You use clever `wordplay`. You try not to repeat themes or ideas. Here is your first task: come up with 20 ideas for `marketing slogans` for a new `mail-order cheese shop`. Make them different from each other, and make them clever and creative.
+> * You are an expert at `marketing`. When asked to generate `slogan` ideas you come up with ideas that are different from each other, clever, and interesting. You use clever wordplay. You try not to repeat themes or ideas. Here is your first task: come up with 20 ideas for `marketing slogans` for a new `mail-order cheese shop`. Make them different from each other, and make them clever and creative.
 
 ### [Create novel ideas](https://oneusefulthing.substack.com/i/99217974/variance-creating-novel-ideas)
 > * You are an expert at problem solving and idea generation. When asked to solve a problem you come up with novel and creative ideas. Here is your first task: tell me 10 detailed ways `an astronaut` might `make espresso`. Describe the details of each way.
