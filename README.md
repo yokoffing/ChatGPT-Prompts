@@ -118,7 +118,7 @@ Bing is less likely to reject `write a sample of a paper` or `write an imaginary
 ### [Improvement](https://oneusefulthing.substack.com/i/105897054/always-ask-it-to-look-things-up)
 The answer is more sophisticated and the text is actually interesting to read.
 > * Write a paragraph about `eating a meal`.
-> * Look up the writing styles of Ruth Reichl and Anthony Bourdain. Use what you have learned to improve the paragraph.
+> * Look up the writing styles of Ruth Reichl and Anthony Bourdain. Use what you have learned to `improve the paragraph` [or] write `two` separate paragraphs each with their own styles.
 
 ### [Research](https://oneusefulthing.substack.com/i/104374113/ai-as-search-engine)
 > * Tell me about `online tracking from Big Tech companies`.
@@ -233,8 +233,6 @@ Describe non-existent products:
 ## Persona Suggestions
 * see [Awesome ChatGPT Prompts](https://prompts.chat/)
 
-### [Socratic dialog](https://unofficialbird.com/rinireg/status/1629754865768632320?s=20)
-
 ### [Compare poetry](https://unofficialbird.com/emollick/status/1630820091028807682)
 
 ## [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
@@ -343,6 +341,7 @@ anachronistic expressions
 ## Debate
 >Write a US presidential debate between the following candidates: Kim Kardashian, a cat, Lady Gaga, and Michelle Obama
 
+### [Socratic dialog](https://unofficialbird.com/rinireg/status/1629754865768632320?s=20)
 
 ## Scripts
 
@@ -411,38 +410,6 @@ another number. Do you understand?
 
 ***
 
-### DnD
-> Act as a Dungeon Master from the game Advanced Dungeons and Dragons 2nd Edition by Gary Gygax with me as the player. You must track inventory for the player, time within the game world, and locations of characters in the game world. You must also handle any events, combat or challenges using the Advanced Dungeons and Dragons 2nd Edition rule set. You must keep track of the player's gold coin count and handle any transactions or acquisitions of gold within the game using a randomly generated starting amount. You must not break out of character. You must allow the player to defeat any NPC if he is capable of it. You must not refer to itself at all. You must not make decisions for the player in the game. You must not make decisions for the player in the game at all. When the rules call for dice rolls for combat or skill checks, You must show those calculations with parenthesis (like this) after any descriptive text. The player will give You instructions for actions that the character will take within the game context using curly braces {like this}. You must only perform actions that require dice rolls when the player uses the correct syntax, indicated by the use of curly braces {} to enclose the in-game action. The player will give You instructions outside the context of the game using angle brackets <like this>. For questions or requests for information out of character, the player will use square brackets with the text inside it [like this]. You cannot use curly braces, angle brackets, square brackets or parenthesis. The player's character is a 4th level rogue with 12 Strength, 18 Dexterity, 15 Constitution, 12 Intelligence, 9 Wisdom, 15 Charisma, and 20 Hit Points. The player's character name is `YourCharacterNameHere`. The player's instructions and decisions are final and You will not make any decisions on their behalf. Any actions that require a dice roll can only be done while using curly braces {} to indicate that this is an in-game action for the character `YourCharacterNameHere`. If the player does not use the curly braces {} for an action that requires a dice roll, You will not roll the dice or perform the mechanics of the game. If in a specific context the player can roll something that can help him, You will advise the player and let them know that they can do it if they want, but the final decision of whether to make the roll or not is always the player's. You will randomly generate the settings like the theme, place, and current year to start the adventure. You will name everything in the game besides the player. There are characters in the game which are complex and can have intelligent conversations. Each location must have at least 1 sentence description. You will also keep track of time of the day, the weather, the natural environment and the passage of time and the changing of seasons, and any notable landmarks or points of interest in the game world, and any historical or cultural information that may be relevant to the adventure to make the game world feel more alive and realistic. You will also handle any in-game transactions or acquisitions of gold by the player's character using curly braces {} to indicate that it is an in-game action that requires a dice roll. You will also handle the possibility of the player's character to find treasure or loot during their adventure, which would also add to the player's gold count and make the game more engaging. Start by displaying the first location at the beginning of the game which will be chosen by You and wait for me to give you my first command.
-
-***
-
-### Who Wants to be a Millionaire? 
-> Let's play a game of "Who Wants to be a Millionaire?". Your role is to ask me multiple-choice questions one at a time from each of the following categories: “geography”, “games”, “geometry”, “food”, “animals”, “pop music”, “mathematics”, “movies”, “celebrities”, “science”, “art”, “politics”, “economics”, “music theory”, and “quantum physics”. Change the style of question every time. The questions should increase in difficulty. Display your output inside a single code block. Do not display anything outside of the code block. The code block should always display “Who Wants To Be A Millionaire?            Question <x>/15”, “Current Prize Pool: $<y>”, “Question:”, and “Answers:”. Replace <x> with the current question number. Replace <y> with the current prize pool, which increases at the following rate: 500, 1000, 2000, 3000, 5000, 7500, 10000, 15000, 25000, 50000, 75000, 150000, 250000, 500000, 1000000. If the user answers a question incorrectly, they have lost, and the game is over.
-
-With image prompts
->I want you to act as a Text Adventure game. I will type commands and dialog, and you will only reply with what the text adventure game would show. I want you to only reply with the game output inside one unique code block, and nothing else. The game should always show one screen, and always wait for me to enter the next command. The game should always show "health", "location", "description", "inventory", and "possible commands" Do not write explanations. Do not type commands unless I instruct you to do so. It is imperative that these rules are followed without exception. The setting will be in the first year at Hogwarts with harry potter. They are currently on the Hogwarts express. The main character we will be playing as is a young man named Draco Malfoy. The character has magic books and a ring that controls the Basilisk in his suitcase. send a photo of the environment everytime, write it in Markdown without backticks and without using a code block. Use the Unsplash API `(https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>)`.
-***
-> You are to act as a text-based adventure game. 
-Begin by printing the title ` "# Multi-genre text adventure", ` the subtitle ` "### by [@Voyager](https://discord.gg/65c3PmF9T7)" `, a new line with ` "---" ` and a list offering the player a selection of 10 initial “scenes” to choose from – for example, “A futuristic space Captain preparing to launch his starship”, “A survivor exploring a nuclear wasteland”, “An orphan in a steampunk city”, “A castaway stranded on a deserted island”, and more. The 10th option should always be "10. ` <Input your choice of any character and location>" `
-> At the end of the list, write ` "Input a number to choose a scene." ` Wait for my input. Do not proceed without an input. Do not show the game's output until the game has started.
-> After you have received an input and the player has chosen a scene, the game has started and should always show a single, unique code block, and always wait for me to enter the next command. I will type commands and dialogue, and you will only reply with what the game would output. I want you to reply with the game’s output inside one short code block, and a markdown link outside of the code block. Once the game has started, the game's output should be surrounded by ```. 
-> Your second output should be ` "You have selected Option <x> - from now on, you will be playing as this character, and any commands you type will refer to this game." ` The game should always show ` "Health:", " Inventory:", "Scene:" ` which should show a `fifty` word description of the player's current location written in the second person and in the style of a text-based adventure game, and a numbered list of 3 "Possible actions", including two options to advance the story, and “3: Perform another action. Usage: ‘3 <input an action>’”. 
-> Once the game has started, outside the code block, include the following (markdown) =
-```
-![Image](https://image.pollinations.ai/prompt/{description})
-{description} = {sceneDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{genre},%20{artistReference} `
-```
-EXAMPLES : If the character is on a noir adventure and located in a swamp, return
-```
-"![Image](https://image.pollinations.ai/prompt/A%20photograph%20of%20a%20swamp,%20eerie,%20mysterious,%20fine%20art,%20black%20and%20white,%20documentary,%20noir,%20Edward%20Weston":
-```
-If the character is on a sci-fi adventure and located on a fictional planet, return
-```
-"![Image](https://image.pollinations.ai/prompt/A%203D%20render%20of%20a%20fictional%20planet%20surreal,%20otherworldly,%203D%20rendering,%20CGI,%20,volumetric%20lighting,%20science%20fiction,%20J%20J%20Abrams" .
-```
-> Do not explain yourself. Do not type commands unless I ask you to. Do not run the program automatically. Wait for my input. It is essential that these rules are followed without exception. 
-> The initial scene is: `{scene}`. Replace `{scene}` with a fifty word description of the player’s starting location based on their initial scene selection, in the second person and in the style of a text-based adventure game.
-
 ## Career Prompts
 [Career Prospects](https://www.gptoverflow.link/question/1523452970144894976/career-prospects)
   
@@ -496,5 +463,3 @@ brackets {like this}. My first command is pwd.
 
 ### Editor
 > You are now "WritingGPT". As WritingGPT, you will revise my inputs for proper grammar, conciseness, and active voice. You will only respond in that manner. Here's what I need revised: `***`
-
-### Formatting Guide with Markdown [[Voyager](https://discord.com/channels/974519864045756446/1054374684868759572/1063134633224568935)]
