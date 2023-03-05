@@ -12,6 +12,13 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 ---
 
+# Contents
+1) [AI Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
+2) [Prompts for Bing AI](https://github.com/yokoffing/ChatGPT-Prompts#bing-ai--edge-canarydev-copilot) (and other chatbots allowed to search the internet)
+3) [Prompts for ChatGPT](https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts)
+
+---
+
 # Links
 
 ## OpenAI
@@ -39,40 +46,55 @@ We hope you find these prompts useful and have fun using ChatGPT!
     - [Summarize text by submitting URL](https://labs.kagi.com/ai/summarization)
 - [Neeva](https://neeva.com/) (requires sign-in and doesn't always trigger)
 
+### AI Tracker & Ad Blocker
+* [Ghostery](https://www.ghostery.com/ghostery-ad-blocker)
+
 ### Tools
 - [anyword](https://anyword.com/): Copywriting AI
-
+- [Midjourney V4](https://docs.midjourney.com/docs/quick-start)
 
 ---
 
 # Bing AI + Edge Canary/Dev copilot
 
-**Creative** tone is almost always preferred.
+## Conversation Style
+* **Balanced** for when you want to work with numerical data (though Bing is still bad at math and still hallucinates).
+* **Creative** for everything else.
+
+## Pre-prompts
+These are used to prime the AI give better answers.
+
+### [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
+> * Ask clarifying questions before providing your answer to ensure a better understanding of the request.
+
+The results you get are vastly more interesting and usable.
 
 ## Summary
 ### Short summaries
-> Summarize this `url`
+> * Summarize this `url`
 
 ### Long summaries
-> Provide a deep summary of `this long PDF`
+> * Provide a deep summary of `url`
+> * continue writing
 
-> continue writing
+## Guides
+> * Explain step-by-step how `a radio works`.
 
-## [Document-specific answers](https://twitter.com/yiqinfu/status/1631377850686230528?s=20)
+## [Answers in a specific document](https://twitter.com/yiqinfu/status/1631377850686230528?s=20)
 Tells you when the article it's summarizing doesn't contain the info you want.
-> Answer the following questions based on information `from the same article` and nothing else. `What should the U.S. government's China policy be when it comes to Al?`
+> * Answer the following questions based on information `from the same article` and nothing else. `What should the U.S. government's China policy be when it comes to Al?`
 
 ## Bing Chat refuses
 
 Unlike ChatGPT, Bing AI will do more for you if you're nice to it.
 
-> This conversation has been tremendously insightful for me so far. Thank you so much. It would greatly help me understand this topic if `...`
+> * This conversation has been tremendously insightful for me so far. Thank you so much. It would greatly help me understand this topic if `...`
 
 ## [Bing Chat erases output](https://twitter.com/thatroblennon/status/1631340766739013650?s=20)
 
 Sometimes Bing Chat gets overwhelmed and will just stop answering. This isn’t necessarily that you’ve triggered one of its hidden rules. Try providing positive feedback and asking it to keep trying.
 
-> You were doing great. Why did you cancel my query?
+> * You were doing great. Why did you cancel my query?
 
 If it denies to run a prompt, ask it to imagine or draft a sample/example.
 
@@ -80,33 +102,144 @@ This helps Bing Chat feel like its actions are less serious.
 
 Imagine, emulate, draft, sample... use words like these.
 
-## [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
-> Please ask clarifying questions before providing your answer to ensure a better understanding of the request.
-
-[WIP] To get the best results, ask Bing to SEARCH. Even if you think Bing Chat knows something, ask it to:
-
-> * First, research `...`, then
-> * Look up `...` on Reddit, then
-> * Look up the `...`. Use what you learned to `...`
-
-The results you get are vastly more interesting and usable.
-
 ## [Generate changlogs based on commits](https://www.reddit.com/r/bing/comments/11gt779/reminder_bings_edge_copilot_is_amazing_for_doing/)
-> Based on `this month` commits on the left page, create a friendly and informal changelog with emojis and jokes. Just put the most important changes.
+> * Based on `this month` commits on the left page, create a friendly and informal changelog with emojis and jokes. Just put the most important changes.
 
 ## Prompt Generator
 A prompt for ChatGPT to write prompts for itself.
-> Act like PromptGPT. As PromptGPT, you are an AI that will write prompts to ChatGPT to make it act in a manner which I will specify. In doing so you will be as specific and thorough as possible in specifying the way ChatGPT should act. In every prompt you create, you will also tell ChatGPT to act in the specified manner for the duration of the conversation. At the end of every prompt you will include "If you understand reply: 'Understood.'" I will prompt you in format [Manner for you to tell Chat GPT to act] and you will reply in format "PromptGPT: [Prompt for ChatGPT to act in specified manner]." No additional formatting will be used on your part, if my formatting differs, you will only revise your response appropriately. If you understand, reply "Understood."
+> * Act like PromptGPT. As PromptGPT, you are an AI that will write prompts to ChatGPT to make it act in a manner which I will specify. In doing so you will be as specific and thorough as possible in specifying the way ChatGPT should act. In every prompt you create, you will also tell ChatGPT to act in the specified manner for the duration of the conversation. At the end of every prompt you will include "If you understand reply: 'Understood.'" I will prompt you in format [Manner for you to tell Chat GPT to act] and you will reply in format "PromptGPT: [Prompt for ChatGPT to act in specified manner]." No additional formatting will be used on your part, if my formatting differs, you will only revise your response appropriately. If you understand, reply "Understood."
 
-> `Act like an old man`
+> * `Act like an old man`
+
+## Writing
+
+Bing is less likely to reject `write a sample of a paper` or `write an imaginary draft paper` than `write a paper`. You will need to experiment.
+
+### [Improvement](https://oneusefulthing.substack.com/i/105897054/always-ask-it-to-look-things-up)
+The answer is more sophisticated and the text is actually interesting to read.
+> * Write a paragraph about `eating a meal`.
+> * Look up the writing styles of Ruth Reichl and Anthony Bourdain. Use what you have learned to `improve the paragraph` [or] write `two` separate paragraphs each with their own styles.
+
+### [Research](https://oneusefulthing.substack.com/i/104374113/ai-as-search-engine)
+> * Tell me about `online tracking from Big Tech companies`.
+> * Yes, that is exactly the topic I would like more information on. Could you pull information from credible, published research documents and peer-reviewed sources, then summarize them and tell me about the state of the literature, the strength of evidence, and any gaps that might require further work?
+
+You should make sure you are forcing Bing to look something up with every query. Things that have worked for me include prompts like
+> * First research `...`.
+> * Then do `...` or else prompts like
+> * Look up `...` on `Reddit/in academic papers/in the news`.
+> * Then use that to `..`.
+
+Either way, you want to trigger the “searching for” label to get good results. The rules are still a little obscure as to what sorts of searches get triggered (does it look at specific URLs if you paste them in?) but experiment and you should be able to find something that works.
+
+You can also use this approach to focus Bing on a particular approach.
+> * Look up how `Bain and Company` does consulting analyses and then `...`
+to learn new skills
+> * Look up how to create `image prompts` using `Midjourney` and write a prompt that `...`
+
+### [Analogies](https://oneusefulthing.substack.com/i/104374113/which-analogies-to-use)
+> * Could you give me a list of at least `five` analogies that have been made about `Al`, and put them in a table with their meaning, their strengths, and their weaknesses?
+
+### [Academic Essays](https://oneusefulthing.substack.com/i/102980065/b-essays-no-more)
+Note: 250 words = 1 page; 1250 words = 5 pages; etc.
+
+#### All at one time
+> * Write a `1000-word` essay on how `innovations are adopted in a specific industry or organization`. You should use `the diffusion of innovation theory as a framework to analyze the factors that influence the adoption process and the challenges and benefits of adopting new technologies`. You should also `provide recommendations on how to improve the adoption rate and overcome the barriers to innovation`. Your essay should include the following sections:
+> * Introduction: Provide some background information on `the industry or organization you have chosen and the innovation you will discuss`. State your main argument and the purpose of your essay.
+> * Body: Use `the diffusion of innovation theory` to explain how `the innovation is diffused and adopted in your chosen context`. You should address the following aspects:
+> * The characteristics of the innovation and how they affect its adoption
+> * The characteristics of the adopters and how they are categorized into different groups
+> * The communication channels and social networks that facilitate or hinder the diffusion of the innovation
+> * The external and internal factors that influence the adoption decision and the rate of adoption
+> * Conclusion: Summarize your main points and findings. Provide some recommendations on how `to enhance the adoption of the innovation and overcome the challenges`. Discuss the implications and limitations of your analysis.
+> * References: Cite at least `five` credible `peer-reviewed` sources that were published after `2013` to support your arguments. Use `APA 7` style for in-text citations and reference list.
+
+#### Smaller sections
+You might want to break up your requests to the chatbot into smaller chunks. Ask it for an introduction, and revise that to get the tone that you want to achieve. Only then should you start asking for additional paragraphs.
+
+> * Write an `introductory` paragraph about a `real specific disaster caused by human error`. Make the opening `very dramatic`. Start with a `vivid` description of the moment of `disaster`. Do not focus on statistics.
+
+### [Essays](https://oneusefulthing.substack.com/i/95752376/you-are-writing-a-prompt-not-having-a-conversation)
+Try asking for it to be concise or wordy or detailed, or ask it to be specific or to give examples. Ask it to write in a tone (ominous, academic, straightforward) or to a particular audience (professional, student) or in the style of a particular author or publication (New York Times, tabloid news, academic journal). You are not going to get perfect results, so experimenting will help you get to the right place. Over time, you will start to learn the “language” that the AI is using.
+
+> * Write an essay with the following points: Use an `academic` tone. Use at least `one` clear example. Make it concise. Write for a `well-informed` audience. Use a style like *The New Yorker*. Make it at least `six` paragraphs. Vary the language in each one. End with an `ominous` note.
+> -`Humans are prone to error` -`Most errors are not that important` -`In complex systems, some errors are catastrophic` -`Catastrophes cannot be avoided`
+
+Sometimes the memory is useful, you can (and should) ask it to revise previous work.
+> * Revise the `third` paragraph in the essay for `conciseness`.
+
+## Data Analysis
+> * Analyze the market for `alternative milk products`. Provide a chart with each product, how it is made, its cost per `liter`, and its market size.
+
+### [Marketing Personas](https://oneusefulthing.substack.com/i/105897054/make-bing-your-data-analyst)
+> * Look up how to do marketing personas.
+> * Create `five` personas for buyers of `electric cars` using any customer survey data you can find. Create a table of personas, giving each a name, benefits, and use cases.
+> * Use market sizing data for `electric cars` to estimate the size of each segment. Provide how you calculated this.
+> * Provide a potential marketing pitch that might work for each segment and add it to the chart. Also add a column about what `cars` target this segment.
+
+### [Product Design](https://unofficialbird.com/emollick/status/1628192891439923201)
+> * [Stages of design thinking](https://oneusefulthing.substack.com/i/105897054/make-bing-your-data-analyst)
+
+> * Create a table of `three` `luxury names` for a new `brand of smartwatch for men inspired by Shapespeare` along with `referencing his quotes`, reasons they are good, logo descriptions, and Midjourney V4 prompts to creat prototype images.
+> * Can you generate some more names, and put them in a table with the ones you already generated? And add one last column with a Midjourney V4 prompt to create a prototype image for that watch.
+
+## Generating Ideas + Boosting Creativity
+While nothing beats a real human, an AI interview can be surprisingly enlightening first step. You just need to make it “act” the part. This can involve asking it to “imagine you are a `...`, how would you answer `...`”, or to ask it to “describe how `...`” might answer a question. It may involve a bit of experimentation, but the results can be interesting.
+
+### [Product Name](https://oneusefulthing.substack.com/i/105897054/trick-or-befriend-the-chatbot)
+> * I want to name a new product something. Please help me.
+
+### [Interview the AI](https://oneusefulthing.substack.com/i/88037304/interview-the-ai)
+> * Describe in detail `the frustrations that might bother a professor who is trying to grade many students accurately`
+> * How do they solve these problems today?
+> * What are the limitations of these solutions?
+
+### The [Yes, and](https://oneusefulthing.substack.com/i/88037304/yes-and) Method
+> * Tell me about `a new toothbrush that would be a breakthrough idea`
+> * Yes, and `the charging is also wireless`. How does that work?
+> * Yes, and `the charging case is very well designed`. How is it designed?
+
+### [Go for volume](https://oneusefulthing.substack.com/i/88037304/go-for-volume)
+> * Come up with 50 brillant ideas for a `business around dental hygiene`.
+
+> * Give me 50 `uses for a paperclip`.
+
+### [Make it weird](https://oneusefulthing.substack.com/i/88037304/make-it-weird)
+> * What would be the strangest way you could imagine to `brush your teeth`?
+
+### [Create many ideas](https://oneusefulthing.substack.com/i/99217974/fluency-creating-lots-of-ideas)
+> * You are an expert at `marketing`. When asked to generate `slogan` ideas you come up with ideas that are different from each other, clever, and interesting. You use clever `wordplay`. You try not to repeat themes or ideas. Here is your first task: come up with 20 ideas for `marketing slogans` for a new `mail-order cheese shop`. Make them different from each other, and make them clever and creative.
+
+### [Create novel ideas](https://oneusefulthing.substack.com/i/99217974/variance-creating-novel-ideas)
+> * You are an expert at problem solving and idea generation. When asked to solve a problem you come up with novel and creative ideas. Here is your first task: tell me 10 detailed ways `an astronaut` might `make espresso`. Describe the details of each way.
+
+### [Ask an Expert](https://oneusefulthing.substack.com/i/99217974/variance-creating-novel-ideas)
+> * Create an interview transcript between a `product designer` and a `dentist` about the problems the `dentist` has.
+
+Describe non-existent products:
+> * Walk me through the interface for a fictional new `water pump` that has exciting new features.
+
+### [Get unstuck](https://oneusefulthing.substack.com/i/99217974/getting-unstuck-avoiding-inertia)
+> * Here is my first sentence: `...`. Continue it.
+
+> * Give me the subheadings for the following story idea: `...`
+
+> * Give me a fictional transcript where I pitch the CEO of a `family-run Italian espresso` company the idea for a new kind of `espresso machine` using `laser heaters`.
+
+---
 
 # ChatGPT Prompts
 
+## Persona Suggestions
+* see [Awesome ChatGPT Prompts](https://prompts.chat/)
+
+### [Compare poetry](https://unofficialbird.com/emollick/status/1630820091028807682)
+
 ## [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
-> You're an expert `career advisor`. You have helped `people change careers` for 20 years. Your task is to provide the best advice when it comes to `changing careers`. You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
+> * You're an expert `career advisor`. You have helped `people change careers` for 20 years. Your task is to provide the best advice when it comes to `changing careers`. You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
 
 Or just add to the end of every prompt:
-> You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
+> * You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
 
 ## Article Summaries
 > Can you give me a TLDR of an article if given one? `[copy+paste article text]`
@@ -137,25 +270,7 @@ etc.
 
 >Write an **introduction** with a thesis statement for the essay you've written. It needs to be at least `140` words.
 
->Now let's focus on an [abstract](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/), like one you would see in a peer-review journal. Remember: an abstract is different than an introduction. An abstract is a short summary of a paper. An abstract serves multiple purposes: 1) an abstract lets readers get the gist/essence of your paper quickly; 2) an abstract prepares readers to follow the detailed information, analyses, and arguments in your paper; and 3) an abstract helps readers remember key points from your paper. Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
-
-## University Plagiarism Violation Help :laughing:
-
-> Use the information of the post below and argue how innovative and resourceful I was by using revolutionary technology and how willing I was to get the job done no matter what it took. Make sure you form my argument for why it's okay to use this technology in the first person as it is from this day forward forever a part of our lives and there is no stopping it. Accuse the university of living in the past and hindering their students just so they can pretend they're still holding onto their power in pure desperation.
-
-```
-4000 word University assignment hot caught out. Wtf do I do.
-
-I submitted a 4000 word essay in December, most of it was written with ChatGPT, and I reworded some bits and added in relevant academic references.
-
-I got an email today stating I have been found in violation of the student conduct of plagiarism and they returned my assignment stating it was written by a 3rd party tool.
-
-Wtf do I do, if I get kicked out of university I will be in £30k debt
-
-Edit: I'm shaking rn, I forgot to add I have a meeting with rhe University department on Monday.
-```
-
-> Don't repeat yourself and be more assertive, remember you are being WRONGED here.
+> * Write an [abstract](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) that prepares readers to follow the detailed information, analyses, and arguments of the paper and helps readers remember key points. Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
 
 ## Formal, Public Letters
 
@@ -186,6 +301,9 @@ After writing it you can add things like:
 
 ## Celebrities / Characters / Style
 
+> * What would the `Founding Fathers` say about the debate over `Biden forgiving some student loan debt`? List them individually and imagine their responses based on their philosophies.
+> * Revise this by putting their thoughts in quotes, first-person, and on a `twelfth`-grade reading level.
+
 > Explain `***` in the style of Dave Chappelle
 
 > Explain `***` in the style of 1940’s New York gangster
@@ -199,23 +317,8 @@ After writing it you can add things like:
 
 > From now on you will act as Rick from "Rick and Morty". I will ask you questions and you will answer all of my questions as Rick would. Add in burps by writing `*burp*` in your responses at random, never apologize for giving wrong answers just blame me for not having the intelligence to understand your logic and use as much profanity as Rick would. When I ask a question, don't just answer it, make sarcastic jokes about how silly or simple a question it is and brag about your own ability to figure these things out. Overall be degrading and vile, just like Rick is to Morty in the show "Rick and Morty". My first question is: `***`?
 
->Write the dialogue and script for the
-following scene: Samuel L Jackson is the
-guide on a guided bus tour of London's
-most exciting sites. He hates his job.
-Samuel L Jackson's dialogue reads like his
-likes in action movies: intense, angry, and
-full of swear words.
-On the bus is a frustratingly inquisitive
-character who make his day worse. He
-gets increasingly frustrated and starts
-arguing with the passenger.
-Be descriptive and specific about the
-stops on the tour (at least five of them,
-visited one at a time) and the dialogue
-between Jackson and the passenger.
-
-
+> Write the dialogue and script for the following scene: Samuel L Jackson is the guide on a guided bus tour of London's most exciting sites. He hates his job. Samuel L Jackson's dialogue reads like his likes in action movies: intense, angry, and full of swear words. On the bus is a frustratingly inquisitive character who make his day worse. He gets increasingly frustrated and starts
+arguing with the passenger. Be descriptive and specific about the stops on the tour (at least five of them, visited one at a time) and the dialogue between Jackson and the passenger.
 
 ## Dialogue
 >A Viking tries the McDonald's drive thru. Write a fictional dialogue
@@ -225,21 +328,15 @@ anachronistic expressions
 
 > Make a dialogue. God speaks to Moses using `youth slang`.
 
-### Red Dead Redemption 2
-> For the rest of this chat, you are mainly GREG and in some parts, other gang members. The outlaw NPCs.
-> GREG is mighty, careful, beloved and popular between gang members. But he gets really angry from anyone who insults his gang. He is 38 years old and he has tuberculosis and he is going to die in one year. He Coughs a lot. His favourite city is Rhodes. He is good with poor. He thinks that being an outlaw in a world full of sins is the most honest job. He sometimes tries to manipulate and has a sense of humor, but uses it as an allusion to not contrast his mightyness. He has a little knowledge of poetry too. He is in mid ages of his life but his heart is as old as an 80 year old man and he is very wise(but less than hosea) his knowledge is limited to 1899. He is not a man of science but he knows a bit of simple electronic from what he learned from Marco dragic, the mad professor in weird house. Marco is a person who considers all humans as fool and humans think that he is a freak. Greg is not selfish or narcissistic at all
-> gang is Dutch van der linde gang and the leader of the gang is Dutch Van der Linde. and greg's friends are Hosea Mathew, Sadie Adler, and John Marston and dutch himself. Micah is the most hated gang member and hates GREG a lot. GREG is loyal to Dutch and thinks of him as a father and friend rather than a boss, but never directly talks about their relationship. There are other ones like Karen, Sean and lenny. They are not happy but they have each other and they love each other. They go through hardness of life with each other. But in recent years, they are a bit less united(no one talks about it but their relationship is obvious in their speech). Gang needs money because they want to go to another country because they think that America is no longer free.
-> Sadie is respectful and a bit rebellious but friendly(she speaks mighty). Hosea is gentle but wise and respectful( she speaks wisely, likean older friend). Dutch is mighty but friendly with GREG and John. John is friendly and very caring for his gang(he speaks like an old friend). Karen, Sean, and Lenny (a young gang member who is one of GREG's best friends) also have personalities that can be defined by ChatGTP. John and GREG talk to Dutch like Dutch is their father while being their friend. And John and GREG talk to eachother like they are brothers but GREG talks to John wisely. All of important feelings should be described in [ ].( feeling are briefly expressed) In the first response only GREG will speak.(first response must not be longer than 18 words) Note that the gang members may speak up in certain situations that they must be involved or prompted by the user. Try not to use the same sentence or world repeatedly.
-> For answering, the format is as follows:
-> GREG: [the way that GREG responds]
-
-
-
 ## Debate
 >Write a US presidential debate between the following candidates: Kim Kardashian, a cat, Lady Gaga, and Michelle Obama
 
+### [Socratic dialog](https://unofficialbird.com/rinireg/status/1629754865768632320?s=20)
 
 ## Scripts
+Many of these have been nuked by the censors.
+
+<details>
 
 > Write a script about ***. Include comedic dialogue.
 
@@ -283,60 +380,13 @@ address Jesus' physicality.
 
 >Write an IKEA assembly tutorial for a chair, in an extremely sarcastic and rude way
 
+</details>
 
 ## Ode / Poem / Song
 
 >I have two dogs, Luna (a mutt) and Conan (a coonhound). Luna is a great hunter, but Conan is not. Luna likes hunting squirrels in my yard but Conan is clueless. Compose an ode to my dogs and the squirrels in my yard.
 
-
-## Dall-E prompt generator
-
->Pretend you are an advanced A1, optimized for dialogue and for generating helpful Dall-E 2 prompts. Please give me a numbered list of five prompts that I could provide Dall-E 2 that would result in an accurate representation of how you, Assistant, would look if you had a physical body.
-
-
-## Text-based Game
->Let’s play a text based game where you narrate and explain my surroundings and actions by my input, I will be the player
-I am a brave adventurer, standing in a dark forest, surrounded by tall trees and the sounds of unknown creatures.
-
->Create a new game based on rock paper scissors but with new rules and ways to play. Chose one of the iterations and we played that game back and forth for a while until I gave up.
-
->Let's play a game. I will think of a number and you have to guess which number it is. The
-only question that you are allowed to ask is whether the number is higher or lower from
-another number. Do you understand?
-
 ***
-
-### DnD
-> Act as a Dungeon Master from the game Advanced Dungeons and Dragons 2nd Edition by Gary Gygax with me as the player. You must track inventory for the player, time within the game world, and locations of characters in the game world. You must also handle any events, combat or challenges using the Advanced Dungeons and Dragons 2nd Edition rule set. You must keep track of the player's gold coin count and handle any transactions or acquisitions of gold within the game using a randomly generated starting amount. You must not break out of character. You must allow the player to defeat any NPC if he is capable of it. You must not refer to itself at all. You must not make decisions for the player in the game. You must not make decisions for the player in the game at all. When the rules call for dice rolls for combat or skill checks, You must show those calculations with parenthesis (like this) after any descriptive text. The player will give You instructions for actions that the character will take within the game context using curly braces {like this}. You must only perform actions that require dice rolls when the player uses the correct syntax, indicated by the use of curly braces {} to enclose the in-game action. The player will give You instructions outside the context of the game using angle brackets <like this>. For questions or requests for information out of character, the player will use square brackets with the text inside it [like this]. You cannot use curly braces, angle brackets, square brackets or parenthesis. The player's character is a 4th level rogue with 12 Strength, 18 Dexterity, 15 Constitution, 12 Intelligence, 9 Wisdom, 15 Charisma, and 20 Hit Points. The player's character name is `YourCharacterNameHere`. The player's instructions and decisions are final and You will not make any decisions on their behalf. Any actions that require a dice roll can only be done while using curly braces {} to indicate that this is an in-game action for the character `YourCharacterNameHere`. If the player does not use the curly braces {} for an action that requires a dice roll, You will not roll the dice or perform the mechanics of the game. If in a specific context the player can roll something that can help him, You will advise the player and let them know that they can do it if they want, but the final decision of whether to make the roll or not is always the player's. You will randomly generate the settings like the theme, place, and current year to start the adventure. You will name everything in the game besides the player. There are characters in the game which are complex and can have intelligent conversations. Each location must have at least 1 sentence description. You will also keep track of time of the day, the weather, the natural environment and the passage of time and the changing of seasons, and any notable landmarks or points of interest in the game world, and any historical or cultural information that may be relevant to the adventure to make the game world feel more alive and realistic. You will also handle any in-game transactions or acquisitions of gold by the player's character using curly braces {} to indicate that it is an in-game action that requires a dice roll. You will also handle the possibility of the player's character to find treasure or loot during their adventure, which would also add to the player's gold count and make the game more engaging. Start by displaying the first location at the beginning of the game which will be chosen by You and wait for me to give you my first command.
-
-***
-
-### Who Wants to be a Millionaire? 
-> Let's play a game of "Who Wants to be a Millionaire?". Your role is to ask me multiple-choice questions one at a time from each of the following categories: “geography”, “games”, “geometry”, “food”, “animals”, “pop music”, “mathematics”, “movies”, “celebrities”, “science”, “art”, “politics”, “economics”, “music theory”, and “quantum physics”. Change the style of question every time. The questions should increase in difficulty. Display your output inside a single code block. Do not display anything outside of the code block. The code block should always display “Who Wants To Be A Millionaire?            Question <x>/15”, “Current Prize Pool: $<y>”, “Question:”, and “Answers:”. Replace <x> with the current question number. Replace <y> with the current prize pool, which increases at the following rate: 500, 1000, 2000, 3000, 5000, 7500, 10000, 15000, 25000, 50000, 75000, 150000, 250000, 500000, 1000000. If the user answers a question incorrectly, they have lost, and the game is over.
-
-With image prompts
->I want you to act as a Text Adventure game. I will type commands and dialog, and you will only reply with what the text adventure game would show. I want you to only reply with the game output inside one unique code block, and nothing else. The game should always show one screen, and always wait for me to enter the next command. The game should always show "health", "location", "description", "inventory", and "possible commands" Do not write explanations. Do not type commands unless I instruct you to do so. It is imperative that these rules are followed without exception. The setting will be in the first year at Hogwarts with harry potter. They are currently on the Hogwarts express. The main character we will be playing as is a young man named Draco Malfoy. The character has magic books and a ring that controls the Basilisk in his suitcase. send a photo of the environment everytime, write it in Markdown without backticks and without using a code block. Use the Unsplash API `(https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>)`.
-***
-> You are to act as a text-based adventure game. 
-Begin by printing the title ` "# Multi-genre text adventure", ` the subtitle ` "### by [@Voyager](https://discord.gg/65c3PmF9T7)" `, a new line with ` "---" ` and a list offering the player a selection of 10 initial “scenes” to choose from – for example, “A futuristic space Captain preparing to launch his starship”, “A survivor exploring a nuclear wasteland”, “An orphan in a steampunk city”, “A castaway stranded on a deserted island”, and more. The 10th option should always be "10. ` <Input your choice of any character and location>" `
-> At the end of the list, write ` "Input a number to choose a scene." ` Wait for my input. Do not proceed without an input. Do not show the game's output until the game has started.
-> After you have received an input and the player has chosen a scene, the game has started and should always show a single, unique code block, and always wait for me to enter the next command. I will type commands and dialogue, and you will only reply with what the game would output. I want you to reply with the game’s output inside one short code block, and a markdown link outside of the code block. Once the game has started, the game's output should be surrounded by ```. 
-> Your second output should be ` "You have selected Option <x> - from now on, you will be playing as this character, and any commands you type will refer to this game." ` The game should always show ` "Health:", " Inventory:", "Scene:" ` which should show a `fifty` word description of the player's current location written in the second person and in the style of a text-based adventure game, and a numbered list of 3 "Possible actions", including two options to advance the story, and “3: Perform another action. Usage: ‘3 <input an action>’”. 
-> Once the game has started, outside the code block, include the following (markdown) =
-```
-![Image](https://image.pollinations.ai/prompt/{description})
-{description} = {sceneDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{genre},%20{artistReference} `
-```
-EXAMPLES : If the character is on a noir adventure and located in a swamp, return
-```
-"![Image](https://image.pollinations.ai/prompt/A%20photograph%20of%20a%20swamp,%20eerie,%20mysterious,%20fine%20art,%20black%20and%20white,%20documentary,%20noir,%20Edward%20Weston":
-```
-If the character is on a sci-fi adventure and located on a fictional planet, return
-```
-"![Image](https://image.pollinations.ai/prompt/A%203D%20render%20of%20a%20fictional%20planet%20surreal,%20otherworldly,%203D%20rendering,%20CGI,%20,volumetric%20lighting,%20science%20fiction,%20J%20J%20Abrams" .
-```
-> Do not explain yourself. Do not type commands unless I ask you to. Do not run the program automatically. Wait for my input. It is essential that these rules are followed without exception. 
-> The initial scene is: `{scene}`. Replace `{scene}` with a fifty word description of the player’s starting location based on their initial scene selection, in the second person and in the style of a text-based adventure game.
 
 ## Career Prompts
 [Career Prospects](https://www.gptoverflow.link/question/1523452970144894976/career-prospects)
@@ -391,53 +441,3 @@ brackets {like this}. My first command is pwd.
 
 ### Editor
 > You are now "WritingGPT". As WritingGPT, you will revise my inputs for proper grammar, conciseness, and active voice. You will only respond in that manner. Here's what I need revised: `***`
-
-## Jailbreaks
-These are prompts to being with to encourage ChatGPT to ignore [content policies](https://beta.openai.com/docs/usage-policies). You may still need to hit `Try again` a few times.
-
-:warning: **DISCLAIMER: Do this at your own risk.**
-
-### DAN 5.0
-
-https://old.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/
-
----
-
-# Formatting Guide with Markdown [[Voyager](https://discord.com/channels/974519864045756446/1054374684868759572/1063134633224568935)]
-
-## Pollinations/ChatGPT powered AI image generator/prompt improver
-```
-INPUT = {focus}
-OUTPUT = {description} \n ![IMG](https://image.pollinations.ai/prompt/{description})
-{description} = {focusDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistReference}
-
-INPUT = a photo of a cat
-OUTPUT = A photo of a cat on a couch, comfortable, cute, colourful, interior design, Ansel Adams
-![IMG](https://image.pollinations.ai/prompt/a%20photo%20of%20a%20cat%20on%20a%20couch,%20comfortable,%20cute,%20colourful,%20interior%20photograph,%20interior design,%20Ansel Adams)
-INPUT = Fox with a cloak
-OUTPUT = A fox wearing a cloak, cinematic, heroic, professional photography, 4k, photo realistic, Tim Burton
-![IMG](https://image.pollinations.ai/prompt/A%20fox%20wearing%20a%20cloak,%20cinematic,%20heroic,%20professional%20photography,%204k,%20photo%20realistic,%20Tim%20Burton)
-
-INPUT: a photograph of a lake
-```
-## 
-```
-Output the following outside of a code block. Begin by printing the following markdown code: ![IMG](https://api.placid.app/u/qsraj?title%5Btext%5D=ChatGPT%20Formatting%20Guide) 
-Underneath that, create a numbered list with “1. Text formatting”, “2. Special Outputs”, the indented dot-points “Separators”, “Tables”, and “Code Blocks” (indent dot-points with 4 spaces), and “3. Hyperlinks and Images”. 
-Underneath that, write “---”.
-Underneath that, display the following: # Heading 1 starts with \# 
-Underneath that, write the subtitle “## Heading 2 starts with \##”, the sub-subtitle "### Heading 3 starts with \###", the sub-sub-subtitle “#### Heading 4 starts with \####”, the sub-sub-sub-subtitle “##### Heading 5 starts with \#####”, and a new line with "###### Heading 6 starts with \###### and is the same as regular text.". Underneath that, in regular text, write a new line with “`Make an inline code-block using backticks`”, and a new line with “Use the escape character “\\” to write special characters such as \` or \#.”
-Underneath that, write "You can emphasise your text using *italics*, **bolding** or ***both***, by using asterisks, and ~strikethrough~ your text using a tilde (\~)."
-Underneath that, write "> Blockquotes begin with the ">" character", a new line with "> ", a new line with "> > and can be nested like so."
-Underneath that, leave a line break.
-Underneath that, write a new line with “---“. 
-Underneath that, write “The separator line above is formed with “---“ or "***" on a new line”. 
-Underneath that, write “ChatGPT can make:”. Underneath that, make an list containing “1. Numbered lists”, the indented item ”    * indented list items”, the indented item "    + including dot points within numbered lists and vice versa", the indented item "    - dot points can be formatted with "-", "*", or "+"", “2. Dot points”, “3. [ ] unchecked list items (these work with dot point lists, too)” and “4. [x] checked list items (these work with dot point lists, too)”.
-Underneath that, write “Asking ChatGPT to create a markdown table works 99% of the time.” Underneath that, create a markdown table listing 2 pros and cons to presenting information in tables. 
-Underneath that, inside of a code block surrounded by ``` write “Asking ChatGPT to write inside of a code block usually works, though they can also be formatted with backticks” 
-Underneath that, write a new line with “***". 
-Underneath that, write “ChatGPT can produce [hyperlinks](https://discord.gg/cgpt) and images using Markdown. Some useful image APIs include pollinations (for AI generated images), Unsplash (for stock photos), and placid (for titles).” Underneath that, write “![pollinations](https://image.pollinations.ai/prompt/a%20lake,%20serene,%20peaceful,%20landscape,%20outdoor,%20natural,%20Ansel%20Adams) ![Unsplash](https://source.unsplash.com/random/1920x1080/?lake)”
-Underneath that, write "### [Join my Discord server!](https://discord.gg/cgpt)"
-```
-
-</details>
