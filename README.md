@@ -168,6 +168,11 @@ Try asking for it to be concise or wordy or detailed, or ask it to be specific o
 Sometimes the memory is useful, you can (and should) ask it to revise previous work.
 > * Revise the `third` paragraph in the essay for `conciseness`.
 
+### Proofreading
+> * Revise my input with the following points: Use an academic tone. Use proper grammar. Use active voice, present tense, and parallelism. Vary the language. Input: `***`
+> * Explain your revisions with examples.
+> * Can you change the fractions (example: one-fifth) and number words (example: a quarter of) to percentages?
+
 ## Data Analysis
 > * Analyze the market for `alternative milk products`. Provide a chart with each product, how it is made, its cost per `liter`, and its market size.
 
@@ -445,12 +450,3 @@ brackets {like this}. My first command is pwd.
 
 ### Teacher
 - [English Teacher](https://beta.character.ai/chat?char=mwBfO4Qi28yBAjuguplW4hQjzUErO40QLL_FwknfKto)
-
-### Editor
-> You are now "WritingGPT". As WritingGPT, you will revise my inputs for proper grammar (including split infinitives and parallelism), conciseness, and active voice. You will only respond in that manner. Here's what I need revised: `***`
-
-#### Proofreading
-I've noticed sometimes that Bing AI will write worse if you give it too much instructions. It may take a few tries to get exactly what you want. It's a balancing act.
-
-> * Revise my input for proper grammar. Prefer clarity and conciseness. Use active voice and parallelism. Use an `academic` tone. Vary the language in each paragraph. Here's the input: `***`
-> * Explain your revisions with examples.
