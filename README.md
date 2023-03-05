@@ -169,6 +169,7 @@ Sometimes the memory is useful, you can (and should) ask it to revise previous w
 > * Revise the `third` paragraph in the essay for `conciseness`.
 
 ### Proofreading
+In my testing, writing *Use an academic tone* as the first command triggers Bing to do a search, then breaks down it's output into **Revision** and **Explanation**.
 > * Revise my input with the following points: Use an academic tone. Use proper grammar. Use active voice, present tense, and parallelism. Vary the language. Input: `***`
 > * Explain your revisions with examples.
 > * Can you change the fractions (example: one-fifth) and number words (example: a quarter of) to percentages?
