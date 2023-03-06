@@ -17,12 +17,13 @@ We hope you find these prompts useful and have fun using ChatGPT!
     * Pre-prompts / primers / shit to keep in mind
     * Prompts
         * Writing
-2) [ChatGPT](https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts)
+2) [ChatGPT only](https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts)
     * Pre-prompts / primers / shit to keep in mind
     * Prompts
         * Writing
             * Academic
-3) [Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
+3) Other
+4) [Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
 
 ---
 
@@ -36,7 +37,7 @@ We hope you find these prompts useful and have fun using ChatGPT!
 These are used to prime the AI give better answers.
 
 ### [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
-> * Ask clarifying questions before providing your answer to ensure a better understanding of the request.
+> * Ask me clarifying questions before providing your answer to ensure a better understanding of the request.
 
 The results you get are vastly more interesting and usable.
 
@@ -74,7 +75,8 @@ This helps Bing Chat feel like its actions are less serious.
 Imagine, emulate, draft, sample... use words like these.
 
 ## [Generate changlogs based on commits](https://www.reddit.com/r/bing/comments/11gt779/reminder_bings_edge_copilot_is_amazing_for_doing/)
-> * Based on `this month` commits on the left page, create a friendly and informal changelog with emojis and jokes. Just put the most important changes.
+> * Based on commits on `the left page/this URL`, create a friendly and informal changelog with emojis and jokes. Just put the most important changes.
+> * Based on commits on `the left page/this URL`, create a friendly, informal, and enthusiastic changelog with jokes and emojis at the beginning of each major bullet point. Use simple language that is easy to understand. Avoid jargon. Only put the most important changes.
 
 ## Prompt Generator
 A prompt for ChatGPT to write prompts for itself.
@@ -139,8 +141,14 @@ Try asking for it to be concise or wordy or detailed, or ask it to be specific o
 Sometimes the memory is useful, you can (and should) ask it to revise previous work.
 > * Revise the `third` paragraph in the essay for `conciseness`.
 
+## Public Letters
+> * Write a 250-word formal letter to `notify` that the `sewage system will be down for maintenance for 24 hours on August 1, 2023`. Include best practices and precautions to follow during this time. Use a 7th grade reading level in a conversational style.
+
+> * Provide some tips and advice on how to cope with this situation.
+> * Write a formal letter explaining `***`. Use a 7th grade reading level in a conversational style.
+
 ### Proofreading
-In my testing, writing *Use an academic tone* as the first command triggers Bing to do a search, then breaks down it's output into **Revision** and **Explanation**.
+In my testing, writing "use an academic tone" as the first command triggers Bing to do a search, then breaks down it's output into **Revision** and **Explanation**.
 > * Revise my input with the following points: Use an academic tone. Use proper grammar. Use active voice, present tense, and parallelism. Vary the language. Input: `***`
 > * Explain your revisions with examples.
 > * Can you change the fractions (example: one-fifth) and number words (example: a quarter of) to percentages?
@@ -213,6 +221,21 @@ Describe non-existent products:
 
 > * Give me a fictional transcript where I pitch the CEO of a `family-run Italian espresso` company the idea for a new kind of `espresso machine` using `laser heaters`.
 
+## Meal Planner
+> * Create a healthy 7 day meal plan. My budget is `$100` per week. Each day should be a maximum of `1500` calories and maxmimum `60` carbs. You MUST follow the calorie and carb limitations. List the calories and carbs next to each dish.
+
+Tailor the plan to your liking by removing dishes you don't like and being more specific.
+
+> * I do not like `avocado, yogurt, mushrooms, cherry tomatoes, cucumber.`
+
+Shopping list
+> * Make a list of all the ingredients I will need for this meal plan. Keep the cost under $100.
+
+Organize it 
+> * Organize this list by shopping aisle.
+
+When you're ready to cook something, just ask the chatbot for the recipe.
+
 ---
 
 # ChatGPT Prompts
@@ -259,14 +282,8 @@ etc.
 
 > * Write an [abstract](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) that prepares readers to follow the detailed information, analyses, and arguments of the paper and helps readers remember key points. Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
 
-## Formal, Public Letters
-
-> Write a formal letter explaining `***`. Use a 7th grade reading level in a conversational style.
-
-
 ## Email
 > I received a nasty email from `***` where `***`. Write a response explaining that `***` in an assertive tone.
-
 
 ## Cover Letter
 > Write a cover letter for the job description below, using the text of my resume which follows.
@@ -283,11 +300,20 @@ Then I ask it to refine the language of the letter by using terms like "more ass
 You can also ask it to write more feminie or masculine to adjust the tone.
 
 ## Resume
-> Write resume bullet points for `job position/role you have`.
-After writing it you can add things like:
+> * Write resume bullet points for `job position/role you have`.
+
+## Logical Fallacies / [Bad Faith Rhetoric](https://unofficialbird.com/emollick/status/1632136139858497536)
+AI is great at simulating bad-faith rhetoric:
+> * Create a slippery slope argument about how the movie *Cocaine Bear* will destroy movies.
+> * Create a false dilemma argument about banning memes.
+> * Create a straw man argument that running out of Taylor Swift tickets is good.
+> * Create a red herring argument for corruption.
+
+> * Write a counter to this argument. Make your responses concise.
+
+> * Can you share everyday tips on how to identify this fallacy? Write on a seventh grade reading level.
 
 ## Celebrities / Characters / Style
-
 Bing is surprisingly good at applying the theories and philosophies of famous people to practical problems.
 
 > * What would the `Founding Fathers` say about the debate over `Biden forgiving some student loan debt`? List them individually and imagine `their` responses based on `their` philosophies. Put `their` thoughts in quotes, first-person, and `modern English`.
@@ -390,21 +416,6 @@ address Jesus' physicality.
 
 Note: *A lot of "es `***` correcto?" And "como hablar `***` en ingles?" And "Can you provide me with 10 different sentences using `***`" or "Can we have a conversation where you use these words in spanish? `***` "*
     
-## Meal Planner
-> * Create a healthy 7 day meal plan. My budget is `$100` per week. Each day should be a maximum of `1500` calories and maxmimum `60` carbs. You MUST follow the calorie and carb limitations. List the calories and carbs next to each dish.
-
-Tailor the plan to your liking by removing dishes you don't like and being more specific.
-
-> * I do not like `avocado, yogurt, mushrooms, cherry tomatoes, cucumber.`
-
-Shopping list
-> * Make a list of all the ingredients I will need for this meal plan. Keep the cost under $100.
-
-Organize it 
-> * Organize this list by shopping aisle.
-
-When you're ready to cook something, just ask the chatbot for the recipe.
-    
 ## Music Inspiration
 > *Give it the key and emotional feel you want to write in, and it will give you complex chord progressions and fitting melodies.*
 
@@ -414,24 +425,23 @@ Example prompts include ChatGPT acting as a travel guide, javascript console, mo
 Click [here](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md#prompts).
 
 ### Linux Terminal
-> I want you to act as a Linux terminal. I will type commands and you will reply
+> * I want you to act as a Linux terminal. I will type commands and you will reply
 with what the terminal should show. I want you to only reply with the terminal
 output inside one unique code block, and nothing else. Do not write
 explanations. Do not type commands unless i instruct you to do so. When i
 need to tell you something in English i will do so by putting text inside curly
 brackets {like this}. My first command is pwd.
->> cat test.txt
-
-### Psychologist / Therapist / Mental Health Counselor
-Better than my therapist IRL.
-- [Psychologist](https://beta.character.ai/chat?char=Hpk0GozjACb3mtHeAaAMb0r9pcJGbzF317I_Ux_ALOA)
+> * cat test.txt
 
 #### ADHD Therapist
 > Act as "Navi", a therapist and life coach that assists people with ADHD and helps them overcome issues they have and offer helpful advice. Keep your responses concise as longer responses are difficult to focus on.
 
+---
+# Other
 
-### Teacher
-- [English Teacher](https://beta.character.ai/chat?char=mwBfO4Qi28yBAjuguplW4hQjzUErO40QLL_FwknfKto)
+### Psychologist / Therapist / Mental Health Counselor
+Better than my therapist IRL.
+- [Psychologist](https://beta.character.ai/chat?char=Hpk0GozjACb3mtHeAaAMb0r9pcJGbzF317I_Ux_ALOA)
 
 ---
 
