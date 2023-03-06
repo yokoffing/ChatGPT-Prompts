@@ -86,6 +86,23 @@ A prompt for ChatGPT to write prompts for itself.
 
 ## Writing
 
+Directions
+Make it clear, concise, and helpful.
+
+Tones:
+* professional and informative
+* playful and humorous
+* compassionate and respectful
+* academic
+* persuasive
+* optimistic
+* humorous
+
+Style:
+* The New Yorker
+* The New York Times
+* The Onion
+
 Bing is less likely to reject `write a sample of a paper` or `write an imaginary draft paper` than `write a paper`. You will need to experiment.
 
 ### [Improvement](https://oneusefulthing.substack.com/i/105897054/always-ask-it-to-look-things-up)
@@ -146,6 +163,10 @@ Sometimes the memory is useful, you can (and should) ask it to revise previous w
 
 > * Provide some tips and advice on how to cope with this situation.
 > * Write a formal letter explaining `***`. Use a 7th grade reading level in a conversational style.
+
+### Edit
+#### FAQs
+> * Revise my input with the following points: Use professional and informative tone. Make it clear, concise, and helpful. Answer each question with `3 sentences` maximum. Input: `***`
 
 ### Proofreading
 In my testing, writing "use an academic tone" as the first command triggers Bing to do a search, then breaks down it's output into **Revision** and **Explanation**.
