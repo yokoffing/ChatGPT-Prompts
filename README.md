@@ -74,9 +74,14 @@ This helps Bing Chat feel like its actions are less serious.
 
 Imagine, emulate, draft, sample... use words like these.
 
-## [Generate changlogs based on commits](https://www.reddit.com/r/bing/comments/11gt779/reminder_bings_edge_copilot_is_amazing_for_doing/)
-> * Based on commits on `the left page/this URL`, create a friendly and informal changelog with emojis and jokes. Just put the most important changes.
+## Changelogs
+### [Generate changlogs based on commits](https://www.reddit.com/r/bing/comments/11gt779/reminder_bings_edge_copilot_is_amazing_for_doing/)
+> * Based on commits on `the left page/this URL`, create a friendly and informal changelog with emoji and jokes. Just put the most important changes.
 > * Based on commits on `the left page/this URL`, create a friendly, informal, and enthusiastic changelog with jokes and emojis at the beginning of each major bullet point. Use simple language that is easy to understand. Avoid jargon. Only put the most important changes.
+
+### Proofread / Revise
+> * Revise my input with the following points: Use a friendly and informal tone. Use active voice, present tense, and parallelism. Vary the language. Input format is Markdown. Input:
+> * Can you reproduce the output in a markdown textbox? Convert emojis to shortcode.
 
 ## Prompt Generator
 A prompt for ChatGPT to write prompts for itself.
