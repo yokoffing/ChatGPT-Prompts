@@ -492,7 +492,7 @@ Better than my therapist IRL.
 
 ### Search Engines
 - [Perplexity AI](https://www.perplexity.ai/)
-- [PHIND](https://phind.com/)
+- [PHIND](https://phind.com/): search engine for developers 
 - [Kagi](https://kagi.com) (requires an [account](https://kagi.com/signup))
     - [AI+search beta](https://labs.kagi.com/ai/contextai)
     - [Summarize text by submitting URL](https://labs.kagi.com/ai/summarization)
