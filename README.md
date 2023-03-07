@@ -1,4 +1,4 @@
-# :robot: ChatGPT + Bing AI Prompts and Resources
+# :robot: ChatGPT & Bing AI Prompts
 
 Welcome to the "ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
 
