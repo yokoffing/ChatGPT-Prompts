@@ -27,7 +27,7 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 ---
 
-# Bing AI + Edge Canary/Dev copilot
+# Bing AI
 
 ## Conversation Style
 * **Balanced** for when you want to work with numerical data (though Bing is still bad at math and still hallucinates).
