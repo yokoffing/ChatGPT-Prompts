@@ -95,9 +95,11 @@ Directions
 Make it clear, concise, and helpful.
 
 Tones:
+* informative and critical
 * professional and informative
 * playful and humorous
 * compassionate and respectful
+* confident
 * academic
 * persuasive
 * optimistic
