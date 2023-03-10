@@ -34,12 +34,17 @@ We hope you find these prompts useful and have fun using ChatGPT!
 * **Creative** for everything else.
 
 ## Pre-prompts
-These are used to prime the AI give better answers.
+These are used to prime the AI give better answers. The results you get are vastly more interesting and usable.
 
 ### [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
-> * Ask me clarifying questions before providing your answer to ensure a better understanding of the request.
+> * Ask me clarifying questions before you answer to ensure a better understanding of the request.
 
-The results you get are vastly more interesting and usable.
+### [Force searches](https://old.reddit.com/r/bing/comments/11nc12k/asking_bing_to_do_4_searches_improves_it_accuracy/jbmp7wl/?context=3)
+For quries that are complicated, and where Bing isn't initiating searches itself.
+> * Do a recursive search of at least 4 searches before you answer.
+> * Search recursively (min. 4x) before replying.
+
+
 
 ## Summary
 ### Short summaries
