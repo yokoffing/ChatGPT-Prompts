@@ -165,6 +165,9 @@ Try asking for it to be concise or wordy or detailed, or ask it to be specific o
 Sometimes the memory is useful, you can (and should) ask it to revise previous work.
 > * Revise the `third` paragraph in the essay for `conciseness`.
 
+## Storywriting
+> * Write a story where The Mighty Morphin Power Rangers face Frieza from Dragonball Z. Include dialogue.
+
 ## Public Letters
 > * Write a 250-word formal letter to `notify` that the `sewage system will be down for maintenance for 24 hours on August 1, 2023`. Include best practices and precautions to follow during this time. Use a 7th grade reading level in a conversational style.
 
