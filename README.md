@@ -40,10 +40,13 @@ These are used to prime the AI give better answers. The results you get are vast
 > * Ask me clarifying questions before you answer to ensure a better understanding of the request.
 
 ### [Force searches](https://old.reddit.com/r/bing/comments/11nc12k/asking_bing_to_do_4_searches_improves_it_accuracy/jbmp7wl/?context=3)
-For quries that are complicated, and where Bing isn't initiating searches itself.
-> * Do a recursive search of at least 4 searches before you answer.
+For queries that are complicated, and where Bing isn't initiating searches itself.
+> * Do a recursive search of 4 searches before you answer.
 > * Search recursively (min. 4x) before replying.
 
+Bing sometimes limits complex queries searches to two, so you may want to only use this for simple sentences and broad questions. e.g.,
+> * Research `the Zordon era of the TV series Power Rangers`. Do a recursive search of at least 4 searches before you answer.
+> * What is going on with `Silicon Valley Bank, and why is it important for the economy`? Do a recursive search of at least 4 searches before you answer. ([screenshot](https://postimg.cc/kRrPVHBM))
 
 
 ## Summary
