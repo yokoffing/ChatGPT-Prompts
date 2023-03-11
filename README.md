@@ -43,11 +43,12 @@ These are used to prime the AI give better answers. The results you get are vast
 For queries that are broad, and where Bing isn't initiating searches itself.
 > * Do a recursive search of at least 4 searches before you answer.
 > * Search recursively (min. 4x) before replying.
+> * Perform recursive searches at least 4 times.
 
 Bing sometimes limits complex queries searches to two, so you may want to only use this for simple sentences and broad questions. e.g.,
 > * What is `the Zordon era of the TV series Power Rangers`. Do a recursive search of at least 4 searches before you answer.
 > * What is going on with `Silicon Valley Bank, and why is it important for the economy`? Do a recursive search of at least 4 searches before you answer. ([screenshot](https://postimg.cc/kRrPVHBM))
-
+> * Tell me about Ivar from the tv show Vikings. Perform recursive searches at least 4 times.
 
 ## Summary
 ### Short summaries
