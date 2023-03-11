@@ -207,8 +207,14 @@ In my testing, writing "use an academic tone" as the first command triggers Bing
 > * Provide a simulated example of how the `fourth` bullet point might work, including a transcript of the test.
 
 #### [Product ideas table](https://unofficialbird.com/emollick/status/1628192891439923201)
+Example 1
 > * Create a table of `three` `luxury names` for a new `brand of smartwatch for men inspired by Shapespeare` along with `referencing his quotes`, reasons they are good, logo descriptions, and Midjourney V4 prompts to creat prototype images.
 > * Can you generate some more names, and put them in a table with the ones you already generated? And add one last column with a Midjourney V4 prompt to create a prototype image for that watch.
+
+Example 2
+> * List `four` obstacles to learning that college students may have, explain why it is a problem, and practical ways students can overcome them. Put them into a `three-column` table.
+> * Now add `three` more obstacles to the table.
+> * Remove `lack of infrastructure` from the table.
 
 ## Generating Ideas + Boosting Creativity
 While nothing beats a real human, an AI interview can be surprisingly enlightening first step. You just need to make it “act” the part. This can involve asking it to “imagine you are a `...`, how would you answer `...`”, or to ask it to “describe how `...`” might answer a question. It may involve a bit of experimentation, but the results can be interesting.
