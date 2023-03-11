@@ -42,15 +42,15 @@ These are used to prime the AI give better answers. The results you get are vast
 > * Ask me clarifying questions before you answer to ensure a better understanding of the request.
 
 ### [Force searches](https://old.reddit.com/r/bing/comments/11nc12k/asking_bing_to_do_4_searches_improves_it_accuracy/jbmp7wl/?context=3)
-For queries that are broad, and where Bing isn't initiating searches itself.
-> * Do a recursive search of at least 4 searches before you answer.
+For queries that are broad, and where Bing isn't initiating searches itself. Doesn't alway work.
+> * Please do a recursive search of at least 4 searches before you answer.
 > * Search recursively (min. 4x) before replying.
 > * Perform recursive searches at least 4 times.
 
 Bing sometimes limits complex queries searches to two, so you may want to only use this for simple sentences and broad questions. e.g.,
-> * What is `the Zordon era of the TV series Power Rangers`. Do a recursive search of at least 4 searches before you answer.
-> * What is going on with `Silicon Valley Bank, and why is it important for the economy`? Do a recursive search of at least 4 searches before you answer. ([screenshot](https://postimg.cc/kRrPVHBM))
-> * Tell me about Ivar from the tv show Vikings. Perform recursive searches at least 4 times.
+> * What is going on with Silicon Valley Bank, and why is it important for the economy? Do a recursive search of at least 4 searches before you answer. ([screenshot](https://postimg.cc/kRrPVHBM))
+> * Tell me about Ivar from the TV show *Vikings*. Perform recursive searches at least 4 times.
+> * What is the Zordon era referring to in the TV series *Power Rangers*? Why is this special to fans? Do a recursive search of at least 4 searches before you answer.
 
 ## Summary
 ### Short summaries
@@ -93,12 +93,6 @@ Imagine, emulate, draft, sample... use words like these.
 ### Proofread / Revise
 > * Revise my input with the following points: Use a friendly and informal tone. Use active voice, present tense, and parallelism. Vary the language. Input format is Markdown. Input:
 > * Can you reproduce the output in a markdown textbox? Convert emojis to shortcode.
-
-## Prompt Generator
-A prompt for ChatGPT to write prompts for itself.
-> * Act like PromptGPT. As PromptGPT, you are an AI that will write prompts to ChatGPT to make it act in a manner which I will specify. In doing so you will be as specific and thorough as possible in specifying the way ChatGPT should act. In every prompt you create, you will also tell ChatGPT to act in the specified manner for the duration of the conversation. At the end of every prompt you will include "If you understand reply: 'Understood.'" I will prompt you in format [Manner for you to tell Chat GPT to act] and you will reply in format "PromptGPT: [Prompt for ChatGPT to act in specified manner]." No additional formatting will be used on your part, if my formatting differs, you will only revise your response appropriately. If you understand, reply "Understood."
-
-> * `Act like an old man`
 
 ## Writing
 
@@ -281,6 +275,13 @@ When you're ready to cook something, just ask the chatbot for the recipe.
 ---
 
 # ChatGPT Prompts
+
+## Prompt Generator
+A prompt for ChatGPT to write prompts for itself.
+> * Act like PromptGPT. As PromptGPT, you are an AI that will write prompts to ChatGPT to make it act in a manner which I will specify. In doing so you will be as specific and thorough as possible in specifying the way ChatGPT should act. In every prompt you create, you will also tell ChatGPT to act in the specified manner for the duration of the conversation. At the end of every prompt you will include "If you understand reply: 'Understood.'" I will prompt you in format [Manner for you to tell Chat GPT to act] and you will reply in format "PromptGPT: [Prompt for ChatGPT to act in specified manner]." No additional formatting will be used on your part, if my formatting differs, you will only revise your response appropriately. If you understand, reply "Understood."
+ 
+ Example:
+> * `Act like an old man`
 
 ## Persona Suggestions
 * see [Awesome ChatGPT Prompts](https://prompts.chat/)
