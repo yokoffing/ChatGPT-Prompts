@@ -1,5 +1,7 @@
 # :robot: ChatGPT & Bing AI Prompts
 
+"Prompt engineering is the art of communicating eloquently to an AI." - [Greg Brockman](https://unofficialbird.com/gdb/status/1634708489078706179?s=20)
+
 **Currently WIP**
 
 Welcome to the "ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
@@ -42,6 +44,11 @@ These are used to prime the AI give better answers. The results you get are vast
 > * Ask me clarifying questions before you answer to ensure a better understanding of the request.
 
 ### [Force searches](https://old.reddit.com/r/bing/comments/11nc12k/asking_bing_to_do_4_searches_improves_it_accuracy/jbmp7wl/?context=3)
+*This may not work (or be needed?) since the [March 10 optimizations](https://unofficialbird.com/vitor_dlucca/status/1634352219905576960?s=20).*
+
+Example
+> * What is the highest internet connection ever? Please do a recursive search of at least 4 searches before you answer.
+
 For queries that are broad, and where Bing isn't initiating searches itself. Doesn't alway work.
 > * Please do a recursive search of at least 4 searches before you answer.
 > * Search recursively (min. 4x) before replying.
@@ -52,12 +59,25 @@ Bing sometimes limits complex queries searches to two, so you may want to only u
 > * Tell me about Ivar from the TV show *Vikings*. Perform recursive searches at least 4 times.
 > * What is the Zordon era referring to in the TV series *Power Rangers*? Why is this special to fans? Do a recursive search of at least 4 searches before you answer.
 
+## [Generate Theories](https://unofficialbird.com/emollick/status/1634052009580961793)
+Provide Bing with a puzzling set of facts and ask it to generate theories about the puzzle. Then ask how it could test those theories to differentiate among them.
+
+Example
+> * List `several` theories that can explain the following facts: 1. Al is easily available to everyone 2.
+People who use AI have 30% to 50% improvements in job task performance for writing and coding 3.
+Most people are not publicly using Al, despite these advantages
+> * Can you give me a few more theories. Can you refer to specific sociological or psychological theories?
+> * I would like specific tests of all six theories that me to differentiate them.
+> * But those tests don't align with the six theories you gave me earlier.
+> * Can you give me an examples of how to combine or modify these tests?
+> * How would I alter the psychological or cultural factors?
+
 ## Summary
 ### Short summaries
 > * Summarize this `url`
 
 ### Long summaries
-> * Provide a deep summary of `url`
+> * Provide a detailed overview of `url`
 > * continue writing
 
 ## Guides
@@ -85,6 +105,8 @@ This helps Bing Chat feel like its actions are less serious.
 
 Imagine, emulate, draft, sample... use words like these.
 
+You can also use [this workaround on desktop](https://unofficialbird.com/colin_fraser/status/1633606979573919745) to view what was erased.
+
 ## Changelogs
 ### [Generate changlogs based on commits](https://www.reddit.com/r/bing/comments/11gt779/reminder_bings_edge_copilot_is_amazing_for_doing/)
 > * Based on commits on `the left page/this URL`, create a friendly and informal changelog with emoji and jokes. Just put the most important changes.
@@ -95,6 +117,8 @@ Imagine, emulate, draft, sample... use words like these.
 > * Can you reproduce the output in a markdown textbox? Convert emojis to shortcode.
 
 ## Writing
+**Always rewrite to suit your style.**
+
 
 Directions
 Make it clear, concise, and helpful.
@@ -140,7 +164,7 @@ to learn new skills
 > * Look up how to create `image prompts` using `Midjourney` and write a prompt that `...`
 
 ### [Analogies](https://oneusefulthing.substack.com/i/104374113/which-analogies-to-use)
-> * Could you give me a list of at least `five` analogies that have been made about `Al`, and put them in a table with their meaning, their strengths, and their weaknesses?
+> * Could you give me a list of at least `five` analogies that have been made about `Al`, and put them in table format with their meaning, their strengths, and their weaknesses?
 
 ### [Academic Essays](https://oneusefulthing.substack.com/i/102980065/b-essays-no-more)
 Note: 250 words = 1 page; 1250 words = 5 pages; etc.
@@ -179,15 +203,35 @@ Sometimes the memory is useful, you can (and should) ask it to revise previous w
 > * Provide some tips and advice on how to cope with this situation.
 > * Write a formal letter explaining `***`. Use a 7th grade reading level in a conversational style.
 
-### Edit
-#### FAQs
-> * Revise my input with the following points: Use professional and informative tone. Make it clear, concise, and helpful. Answer each question with `3 sentences` maximum. Input: `***`
-
 ### Proofreading
 In my testing, writing "use an academic tone" as the first command triggers Bing to do a search, then breaks down it's output into **Revision** and **Explanation**.
 > * Revise my input with the following points: Use an academic tone. Use proper grammar. Use active voice, present tense, and parallelism. Vary the language. Input: `***`
 > * Explain your revisions with examples.
 > * Can you change the fractions (example: one-fifth) and number words (example: a quarter of) to percentages?
+
+#### Topic Sentences
+> * Wite a topic sentence for this paragraph.
+> * Great. Can you give me `three` variations of this sentence?
+
+#### Transition Sentences
+> * Write a transition sentence to connect the following `two` parapraphs: `...`
+> * Can you give me `three` variations of this sentence?
+
+#### Introduction
+> * Rewrite this paragraph as an introduction: `...`
+> * Create three variations of this introduction.
+
+Select the one you like best and rewrite it to suit your personal style.
+
+#### Conclusion
+> * Rewrite this paragraph as a conclusion: `...`
+
+#### Counterarument
+Take you argument and run it through ChatGPT or Bing with the following prompt,
+> * Please give me a counterargument for this claim.
+
+## FAQs
+> * Revise my input with the following points: Use professional and informative tone. Make it clear, concise, and helpful. Answer each question with `3 sentences` maximum. Input: `***`
 
 ## Data Analysis
 > * Analyze the market for `alternative milk products`. Provide a chart with each product, how it is made, its cost per `liter`, and its market size.
@@ -226,6 +270,12 @@ While nothing beats a real human, an AI interview can be surprisingly enlighteni
 > * Describe in detail the frustrations of `a professor who is trying to grade many students accurately`.
 > * How do they solve these problems today?
 > * What are the limitations of these solutions?
+
+[Example](https://unofficialbird.com/emollick/status/1632478129544413185)
+> * What four sentences, sent back in time, could save the Roman Empire?
+> * What four hints about science & engineering could we give the Roman Empire, in terms people of the day would understand, that would have helped them survive?
+> * What four objects should I take back in time to Ancient Rome to give the best chance of becoming Emperor?
+> * Give me exact instructions about what I should do if I am transported back to the Forum in 138 CE with these four objects.
 
 ### The [Yes, and](https://oneusefulthing.substack.com/i/88037304/yes-and) Method
 > * Tell me about `a new toothbrush that would be a breakthrough idea`
@@ -278,9 +328,35 @@ Organize it
 
 When you're ready to cook something, just ask the chatbot for the recipe.
 
+## Tech Support
+Example
+> * My computer keeps resetting sometime at night. It's a Windows 11 machine. I wake up to a blue screen.
+> * How would I find problematic apps?
+
+## Learning about a new topic
+Example
+> * I want to know about slime mold computer and what they are good for.
+> * What are some examples of slime mold computers?
+
+## Compiling complex purchase options
+Example
+> * I want to buy some new flatware for our home. I'd like them to be modern looking, but not too expensive. Make a table of highly-rated sets, their reviews, any star ratings you find, and prices per piece.
 ---
 
 # ChatGPT Prompts
+
+## [Output Formats](https://unofficialbird.com/MakadiaHarsh/status/1634215629225070593)
+1) line graph
+2) checklist
+3) scorecard
+4) JSON
+5) bar chart
+6) table format
+7) programming language
+8) CSV format
+9) XML/YAML
+10) SVG
+11) diagram
 
 ## Prompt Generator
 A prompt for ChatGPT to write prompts for itself.
@@ -366,6 +442,9 @@ AI is great at simulating bad-faith rhetoric:
 Bing is surprisingly good at applying the theories and philosophies of famous people to practical problems.
 
 > * What would the `Founding Fathers` say about the debate over `Biden forgiving some student loan debt`? List them individually and imagine `their` responses based on `their` philosophies. Put `their` thoughts in quotes, first-person, and `modern English`.
+
+### Extrapolate the possible consequences
+> * In the voice of: `Bruce Lee`. Extrapolate the possible consequences of: Not eating your vegetables. Audience: 7 year olds
 
 Many of these have been nerfed by the censors.
 
@@ -455,6 +534,9 @@ address Jesus' physicality.
 
 >I have two dogs, Luna (a mutt) and Conan (a coonhound). Luna is a great hunter, but Conan is not. Luna likes hunting squirrels in my yard but Conan is clueless. Compose an ode to my dogs and the squirrels in my yard.
 
+## [Write in your style](https://keepwriting.beehiiv.com/p/train-chatgpt-write-style)
+
+
 ***
 
 ## Career Prompts
@@ -510,12 +592,15 @@ Better than my therapist IRL.
 - [Futurepedia](https://www.futurepedia.io/): AI Tools Directory
 - [TheresAnAIforThat](https://theresanaiforthat.com/): AI use cases and the evolution of AI capabilities since 2015
 
-### Characters / Games
+### Chatbots / Characters
+- [Lexii.ai](https://lexii.ai/)
+- [Friday](https://friday.page/)
 - [Character AI](https://beta.character.ai/)
 
 ### Search Engines
 - [Perplexity AI](https://www.perplexity.ai/)
 - [PHIND](https://phind.com/): search engine for developers 
+- [Komo](https://komo.ai/)
 - [Kagi](https://kagi.com) (requires an [account](https://kagi.com/signup))
     - [AI+search beta](https://labs.kagi.com/ai/contextai)
     - [Summarize text by submitting URL](https://labs.kagi.com/ai/summarization)
@@ -527,5 +612,10 @@ Better than my therapist IRL.
 ### Tools
 - [anyword](https://anyword.com/): Copywriting AI
 - [Midjourney V4](https://docs.midjourney.com/docs/quick-start)
+- [scite_](https://scite.ai/): citation analysis
+- [Jenni](https://jenni.ai/)
+- [ChatBase](https://www.chatbase.co/): create AI out of [PDF documents](https://unofficialbird.com/rowancheung/status/1633868758530883584)
+- [TypingMind](https://www.typingmind.com/): better UI for ChatGPT
+- [Lex](https://lex.page/): helps with writing
 
 ---
