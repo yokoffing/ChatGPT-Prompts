@@ -110,6 +110,10 @@ You can also use [this workaround on desktop](https://unofficialbird.com/colin_f
 > * Revise my input with the following points: Use a friendly and informal tone. Use active voice, present tense, and parallelism. Vary the language. Input format is Markdown. Input:
 > * Can you reproduce the output in a markdown textbox? Convert emojis to shortcode.
 
+#### Features
+Point-of-view
+> * Revise this `sentence` to use `third-person`.
+
 ## Writing
 **Always rewrite to suit your style.**
 
@@ -198,7 +202,6 @@ Sometimes the memory is useful, you can (and should) ask it to revise previous w
 > * Write a formal letter explaining `***`. Use a 7th grade reading level in a conversational style.
 
 ### Proofreading
-In my testing, writing "use an academic tone" as the first command triggers Bing to do a search, then breaks down it's output into **Revision** and **Explanation**.
 > * Revise my input with the following points: Use an academic tone. Use proper grammar. Use active voice, present tense, and parallelism. Vary the language. Input: `***`
 > * Explain your revisions with examples.
 > * Can you change the fractions (example: one-fifth) and number words (example: a quarter of) to percentages?
