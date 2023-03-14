@@ -18,16 +18,8 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 # Contents
 1) [Bing AI](https://github.com/yokoffing/ChatGPT-Prompts#bing-ai--edge-canarydev-copilot) (and other chatbots allowed to search the internet)
-    * Pre-prompts / primers / shit to keep in mind
-    * Prompts
-        * Writing
 2) [ChatGPT only](https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts)
-    * Pre-prompts / primers / shit to keep in mind
-    * Prompts
-        * Writing
-            * Academic
-3) Other
-4) [Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
+3) [Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
 
 ---
 
@@ -75,6 +67,9 @@ Most people are not publicly using Al, despite these advantages
 ## Summary
 ### Short summaries
 > * Sum up: `url`
+> * Sum up this `page` in `paragraph` format.
+> * Sum up this `page` using `bullet points`.
+> * Summarize this `article` into a `sentence` where every `word` begins with G.
 
 ### Long summaries
 > * Provide a detailed breakdown: `url`
