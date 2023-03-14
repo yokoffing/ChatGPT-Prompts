@@ -74,11 +74,10 @@ Most people are not publicly using Al, despite these advantages
 
 ## Summary
 ### Short summaries
-> * Summarize this `url`
+> * Sum up: `url`
 
 ### Long summaries
-> * Provide a detailed overview of `url`
-> * continue writing
+> * Provide a detailed breakdown: `url`
 
 ## Guides
 > * Explain step-by-step how `a radio works`.
