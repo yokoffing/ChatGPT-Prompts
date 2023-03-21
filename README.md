@@ -607,6 +607,7 @@ Better than my therapist IRL.
 * [Ghostery](https://www.ghostery.com/ghostery-ad-blocker)
 
 ### Tools
+- [Bing Image Creator](https://www.bing.com/create): pictures
 - [anyword](https://anyword.com/): Copywriting AI
 - [Midjourney V4](https://docs.midjourney.com/docs/quick-start)
 - [scite_](https://scite.ai/): citation analysis
