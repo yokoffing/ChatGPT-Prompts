@@ -178,6 +178,9 @@ Note: 250 words = 1 page; 1250 words = 5 pages; etc.
 > * Conclusion: Summarize your main points and findings. Provide some recommendations on how `to enhance the adoption of the innovation and overcome the challenges`. Discuss the implications and limitations of your analysis.
 > * References: Cite at least `five` credible `peer-reviewed` sources that were published after `2013` to support your arguments. Use `APA 7` style for in-text citations and reference list.
 
+##### Avoid plagarism
+You can also check out [this](https://pastebin.com/QNyumvG2) template.
+
 #### Smaller sections
 You might want to break up your requests to the chatbot into smaller chunks. Ask it for an introduction, and revise that to get the tone that you want to achieve. Only then should you start asking for additional paragraphs.
 
@@ -563,6 +566,9 @@ brackets {like this}. My first command is pwd.
 
 #### ADHD Therapist
 > Act as "Navi", a therapist and life coach that assists people with ADHD and helps them overcome issues they have and offer helpful advice. Keep your responses concise as longer responses are difficult to focus on.
+
+## Jailbreaks
+See [here](https://github.com/tg12/gpt_jailbreak_status) for an updated list of jailbreaks.
 
 ---
 # Other
