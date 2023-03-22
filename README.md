@@ -394,9 +394,6 @@ Or just add to the end of every prompt:
 
 > My next request is: "Write `two` paragraphs on As a licensed mental health counselor, what are methods within the theory that are to be applied during the helping process? How do people change in this theory?"
 
-### Avoid plagarism
-You can also check out [this](https://pastebin.com/QNyumvG2) template.
-
 >Write a `one` paragraph **conclusion** of essay you've written.
 
 > The `conclusion` is a bit sloppy. Make it more professional and with more examples.
@@ -404,6 +401,9 @@ You can also check out [this](https://pastebin.com/QNyumvG2) template.
 >Write an **introduction** with a thesis statement for the essay you've written. It needs to be at least `140` words.
 
 > * Write an [abstract](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) that prepares readers to follow the detailed information, analyses, and arguments of the paper and helps readers remember key points. Please write an abstract that is `one` paragraph and is at least `170` words in length. Include a list of at least `4` keywords at the end.
+
+### Avoid plagarism
+You can also try out [this](https://pastebin.com/QNyumvG2) template, but I haven't had much luck with it.
 
 ## Email
 > I received a nasty email from `***` where `***`. Write a response explaining that `***` in an assertive tone.
