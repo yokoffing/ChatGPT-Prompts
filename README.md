@@ -35,11 +35,17 @@ These are used to prime the AI give better answers. The results you get are vast
 ### [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
 > * Ask me clarifying questions before you answer to ensure a better understanding of the request.
 
+### Force no searches
+Use `#nosearch` or `#no-search` for now. This is expected to be a UI toggle in the future.
+
 ### [Force searches](https://old.reddit.com/r/bing/comments/11nc12k/asking_bing_to_do_4_searches_improves_it_accuracy/jbmp7wl/?context=3)
 *This may not work (or be needed?) since the [March 10 optimizations](https://unofficialbird.com/vitor_dlucca/status/1634352219905576960?s=20).*
 
 Example
 > * What is the highest internet connection ever? Please do a recursive search of at least 4 searches before you answer.
+
+> * Research `...`. Research `...`.
+> * *Then ask your query*
 
 For queries that are broad, and where Bing isn't initiating searches itself. Doesn't alway work.
 > * Please do a recursive search of at least 4 searches before you answer.
@@ -66,6 +72,7 @@ Most people are not publicly using Al, despite these advantages
 
 ## Summary
 ### Short summaries
+> * Condense the following `article` into bullet points of relevant information: `...`
 > * Sum up: `url`
 > * Sum up this `page` in `paragraph` format.
 > * Sum up this `page` using `bullet points`.
@@ -299,6 +306,8 @@ While nothing beats a real human, an AI interview can be surprisingly enlighteni
 
 ### [Ask an Expert](https://oneusefulthing.substack.com/i/99217974/variance-creating-novel-ideas)
 > * Create an interview transcript between a `product designer` and a `dentist` about the problems the `dentist` has.
+
+> * You are an expert in `...`. I am a `...` who wants to `...`. How can I `...`?
 
 Describe non-existent products:
 > * Walk me through the interface for a fictional new `water pump` that has exciting new features.
@@ -603,7 +612,6 @@ Better than my therapist IRL.
 - [PHIND](https://phind.com/): search engine for developers 
 - [Komo](https://komo.ai/)
 - [Kagi](https://kagi.com) (requires an [account](https://kagi.com/signup))
-    - [AI+search beta](https://labs.kagi.com/ai/contextai)
     - [Summarize text by submitting URL](https://labs.kagi.com/ai/summarization)
 - [Neeva](https://neeva.com/) (requires sign-in and doesn't always trigger)
 
