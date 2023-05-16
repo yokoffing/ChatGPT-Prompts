@@ -17,7 +17,7 @@ We hope you find these prompts useful and have fun using ChatGPT!
 ---
 
 # Contents
-1) [Bing AI](https://github.com/yokoffing/ChatGPT-Prompts#bing-ai--edge-canarydev-copilot) (and other chatbots allowed to search the internet)
+1) [Bing AI](https://github.com/yokoffing/ChatGPT-Prompts#bing-ai) (and other chatbots allowed to search the internet)
 2) [ChatGPT only](https://github.com/yokoffing/ChatGPT-Prompts#chatgpt-prompts)
 3) [Links & Resources](https://github.com/yokoffing/ChatGPT-Prompts#links)
 
