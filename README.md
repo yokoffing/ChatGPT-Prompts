@@ -124,11 +124,10 @@ Point-of-view
 ## Writing
 **Always rewrite to suit your style.**
 
+### Editing
+> * Take my notes and make them appropriate for reading: `***`
 
-Directions
-Make it clear, concise, and helpful.
-
-Tones:
+### Tone options:
 * informative and critical
 * professional and informative
 * playful and humorous
@@ -139,7 +138,7 @@ Tones:
 * optimistic
 * humorous
 
-Style:
+### Style options:
 * The New Yorker
 * The New York Times
 * The Onion
