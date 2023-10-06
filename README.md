@@ -628,3 +628,9 @@ Better than my therapist IRL.
 - [Lex](https://lex.page/): helps with writing
 
 ---
+
+# Mentions
+### YouTube
+* [Master CHATGPT AI in 2 Minutes](https://youtu.be/fDDlgGVYYaA?si=Yrg8u7QY83afBPyf)
+* [Secret ChatGPT Prompts No One Knows About](https://youtu.be/07pI4OOLK3I?si=HBmUQaKJZXB4jioc)
+* [ChatGPT Tutorial for Beginners- Learn the Basics](https://youtu.be/rDq3seHmt0E?si=yD-ZgHa4wsyscP9R)
