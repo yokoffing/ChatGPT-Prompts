@@ -1,6 +1,6 @@
 # :robot: ChatGPT & Bing AI Prompts
 
-"Prompt engineering is the art of communicating eloquently to an AI." - [Greg Brockman](https://unofficialbird.com/gdb/status/1634708489078706179?s=20)
+"Prompt engineering is the art of communicating eloquently to an AI." - [Greg Brockman](https://twitter.com/gdb/status/1634708489078706179?s=20)
 
 **Currently WIP**
 
@@ -39,7 +39,7 @@ These are used to prime the AI to give better answers. The results you get are v
 Use `#nosearch` or `#no-search` for now. This is expected to be a UI toggle in the future.
 
 ### [Force searches](https://old.reddit.com/r/bing/comments/11nc12k/asking_bing_to_do_4_searches_improves_it_accuracy/jbmp7wl/?context=3)
-*This may not work (or be needed?) since the [March 10 optimizations](https://unofficialbird.com/vitor_dlucca/status/1634352219905576960?s=20).*
+*This may not work (or be needed?) since the [March 10 optimizations](https://twitter.com/vitor_dlucca/status/1634352219905576960?s=20).*
 
 Example
 > * What is the highest internet connection ever? Please do a recursive search of at least 4 searches before you answer.
@@ -57,7 +57,7 @@ Bing sometimes limits complex queries searches to two, so you may want to only u
 > * Tell me about Ivar from the TV show *Vikings*. Perform recursive searches at least 4 times.
 > * What is the Zordon era referring to in the TV series *Power Rangers*? Why is this special to fans? Do a recursive search of at least 4 searches before you answer.
 
-## [Generate Theories](https://unofficialbird.com/emollick/status/1634052009580961793)
+## [Generate Theories](https://twitter.com/emollick/status/1634052009580961793)
 Provide Bing with a puzzling set of facts and ask it to generate theories about the puzzle. Then ask how it could test those theories to differentiate among them.
 
 Example
@@ -106,7 +106,7 @@ This helps Bing Chat feel like its actions are less serious.
 
 Imagine, emulate, draft, sample... use words like these.
 
-You can also use [this workaround on desktop](https://web.archive.org/web/20230316212553/https://unofficialbird.com/colin_fraser/status/1633606979573919745) to view what was erased.
+You can also use [this workaround on desktop](https://web.archive.org/web/20230316212553/https://twitter.com/colin_fraser/status/1633606979573919745) to view what was erased.
 
 ## Changelogs
 ### [Generate changelogs based on commits](https://www.reddit.com/r/bing/comments/11gt779/reminder_bings_edge_copilot_is_amazing_for_doing/)
@@ -253,7 +253,7 @@ Take you argument and run it through ChatGPT or Bing with the following prompt,
 > * Let's go with the `first` bullet point. Describe prototypes I can use to test whether this idea is good quickly and cheaply.
 > * Provide a simulated example of how the `fourth` bullet point might work, including a transcript of the test.
 
-#### [Product ideas table](https://unofficialbird.com/emollick/status/1628192891439923201)
+#### [Product ideas table](https://twitter.com/emollick/status/1628192891439923201)
 Example 1
 > * Create a table of `three` `luxury names` for a new `brand of smartwatch for men inspired by Shakespeare` along with `referencing his quotes`, reasons they are good, logo descriptions, and Midjourney V4 prompts to create prototype images.
 > * Can you generate some more names, and put them in a table with the ones you already generated? And add one last column with a Midjourney V4 prompt to create a prototype image for that watch.
@@ -274,7 +274,7 @@ While nothing beats a real human, an AI interview can be surprisingly enlighteni
 > * How do they solve these problems today?
 > * What are the limitations of these solutions?
 
-[Example](https://web.archive.org/web/20230311224912/https://unofficialbird.com/emollick/status/1632478129544413185)
+[Example](https://web.archive.org/web/20230311224912/https://twitter.com/emollick/status/1632478129544413185)
 > * What four sentences, sent back in time, could save the Roman Empire?
 > * What four hints about science & engineering could we give the Roman Empire, in terms people of the day would understand, that would have helped them survive?
 > * What four objects should I take back in time to Ancient Rome to give the best chance of becoming Emperor?
@@ -350,7 +350,7 @@ Example
 
 # ChatGPT Prompts
 
-## [Output Formats](https://web.archive.org/web/20230324051941/https://unofficialbird.com/MakadiaHarsh/status/1634215629225070593)
+## [Output Formats](https://web.archive.org/web/20230324051941/https://twitter.com/MakadiaHarsh/status/1634215629225070593)
 1) line graph
 2) checklist
 3) scorecard
@@ -373,7 +373,7 @@ A prompt for ChatGPT to write prompts for itself.
 ## Persona Suggestions
 * see [Awesome ChatGPT Prompts](https://prompts.chat/)
 
-### [Compare poetry](https://unofficialbird.com/emollick/status/1630820091028807682)
+### [Compare poetry](https://twitter.com/emollick/status/1630820091028807682)
 
 ## [More precise answers](https://www.youtube.com/watch?v=QmA7S2iGBjk)
 > * You're an expert `career advisor`. You have helped `people change careers` for 20 years. Your task is to provide the best advice when it comes to `changing careers`. You must ALWAYS ask clarifying questions BEFORE providing your answer to ensure a better understanding of the request. Is that understood?
@@ -433,7 +433,7 @@ You can also ask it to write more feminine or masculine to adjust the tone.
 ## Resume
 > * Write resume bullet points for `job position/role you have`.
 
-## Logical Fallacies / [Bad Faith Rhetoric](https://unofficialbird.com/emollick/status/1632136139858497536)
+## Logical Fallacies / [Bad Faith Rhetoric](https://twitter.com/emollick/status/1632136139858497536)
 AI is great at simulating bad-faith rhetoric:
 > * Create a slippery slope argument about how the movie *Cocaine Bear* will destroy movies.
 > * Create a false dilemma argument about banning memes.
@@ -488,7 +488,7 @@ anachronistic expressions
 ## Debate
 > * Write a US presidential debate between the following candidates: Kim Kardashian, a cat, Lady Gaga, and Michelle Obama
 
-### [Socratic dialog](https://web.archive.org/web/20230311090153/https://unofficialbird.com/rinireg/status/1629754865768632320?s=20)
+### [Socratic dialog](https://web.archive.org/web/20230311090153/https://twitter.com/rinireg/status/1629754865768632320?s=20)
 
 ## Scripts
 Many of these have been nerfed by the censors.
@@ -623,7 +623,7 @@ Better than my therapist IRL.
 - [Midjourney V4](https://docs.midjourney.com/docs/quick-start)
 - [scite_](https://scite.ai/): citation analysis
 - [Jenni](https://jenni.ai/)
-- [ChatBase](https://www.chatbase.co/): create AI out of [PDF documents](https://unofficialbird.com/rowancheung/status/1633868758530883584)
+- [ChatBase](https://www.chatbase.co/): create AI out of [PDF documents](https://twitter.com/rowancheung/status/1633868758530883584)
 - [TypingMind](https://www.typingmind.com/): better UI for ChatGPT
 - [Lex](https://lex.page/): helps with writing
 
