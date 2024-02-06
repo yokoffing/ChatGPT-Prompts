@@ -445,6 +445,9 @@ AI is great at simulating bad-faith rhetoric:
 > * Can you share everyday tips on how to identify this fallacy? Write on a seventh grade reading level.
 
 ## Celebrities / Characters / Style
+
+> Write ***. Make it in the style of Moriah Rose. Use sophisticated wording.
+
 Bing is surprisingly good at applying the theories and philosophies of famous people to practical problems.
 
 > * What would the `Founding Fathers` say about the debate over `Biden forgiving some student loan debt`? List them individually and imagine `their` responses based on `their` philosophies. Put `their` thoughts in quotes, first-person, and `modern English`.
@@ -613,9 +616,6 @@ Better than my therapist IRL.
 - [Kagi](https://kagi.com) (requires an [account](https://kagi.com/signup))
     - [Summarize text by submitting URL](https://labs.kagi.com/ai/summarization)
 - [Neeva](https://neeva.com/) (requires sign-in and doesn't always trigger)
-
-### AI Tracker & Ad Blocker
-* [Ghostery](https://www.ghostery.com/ghostery-ad-blocker)
 
 ### Tools
 - [Bing Image Creator](https://www.bing.com/create): pictures
