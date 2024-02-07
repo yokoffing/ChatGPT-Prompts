@@ -446,7 +446,7 @@ AI is great at simulating bad-faith rhetoric:
 
 ## Celebrities / Characters / Style
 
-> Write ***. Make it in the style of Moriah Rose. Use sophisticated wording.
+> Write `a resignation letter` in the style of Moira Rose from Schitt's Creek. Use sophisticated wording.
 
 Bing is surprisingly good at applying the theories and philosophies of famous people to practical problems.
 
