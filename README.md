@@ -623,6 +623,7 @@ Better than my therapist IRL.
 - [Midjourney V4](https://docs.midjourney.com/docs/quick-start)
 - [scite_](https://scite.ai/): citation analysis
 - [Jenni](https://jenni.ai/)
+- [ChatBotKit](https://chatbotkit.com): conversational AI platform, also see https://cbk.ai
 - [ChatBase](https://www.chatbase.co/): create AI out of [PDF documents](https://twitter.com/rowancheung/status/1633868758530883584)
 - [TypingMind](https://www.typingmind.com/): better UI for ChatGPT
 - [Lex](https://lex.page/): helps with writing
