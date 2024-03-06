@@ -448,6 +448,8 @@ AI is great at simulating bad-faith rhetoric:
 
 > Write `a resignation letter` in the style of Moira Rose from Schitt's Creek. Use sophisticated wording.
 
+> Write `how to make a chessecake` in the style and humor of Fran Lebowitz.
+
 Bing is surprisingly good at applying the theories and philosophies of famous people to practical problems.
 
 > * What would the `Founding Fathers` say about the debate over `Biden forgiving some student loan debt`? List them individually and imagine `their` responses based on `their` philosophies. Put `their` thoughts in quotes, first-person, and `modern English`.
