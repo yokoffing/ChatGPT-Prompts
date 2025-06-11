@@ -541,6 +541,10 @@ address Jesus' physicality.
 
 </details>
 
+## Learning Plans
+
+https://samestuffdifferentday.net/2025/06/02/ai-learning-plan/
+
 ## Ode / Poem / Song
 
 >I have two dogs, Luna (a mutt) and Conan (a coonhound). Luna is a great hunter, but Conan is not. Luna likes hunting squirrels in my yard but Conan is clueless. Compose an ode to my dogs and the squirrels in my yard.
